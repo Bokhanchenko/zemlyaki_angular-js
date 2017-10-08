@@ -1,0 +1,25 @@
+{
+  "name": "zemlyaki-angular",
+  "version": "1.0.0",
+  "description": "site zemlyaki with angular framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bokhanchenko/zemlyaki-angular.git"
+  },
+  "author": "Bokhanchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bokhanchenko/zemlyaki-angular/issues"
+  },
+  "homepage": "https://github.com/Bokhanchenko/zemlyaki-angular#readme",
+  "devDependencies": {
+    "bower": "^1.8.2",
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2"
+  }
+}

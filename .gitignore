@@ -2,5 +2,9 @@ node_modules
 bower_components
 .idea
 layouts
+
 .editorconfig
+
+build/
+
 

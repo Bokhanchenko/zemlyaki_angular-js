@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ua" ng-app="">
+<html lang="ua" ng-app="zemlyakiApp">
 <head>
     <meta charset="UTF-8">
     <title>Земляки</title>
@@ -8,33 +8,41 @@
     <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="img/favicon.ico"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/style.css">
-    <script src="js/soft/angular.js"></script>
+
+    //= htmlPartials/js.html
+
 </head>
 <body>
-<div class="wrapper">
+<div class="wrapper" ng-controller="ContentCtrl">
 
     //= htmlPartials/header.html
 
     <nav class="nav">
-        <ul class="nav__list">
-            <li class="nav__item"><a href="index.html" class="nav__link nav__link--checked">Головна</a></li>
-            <li class="nav__item"><a href="activity.html" class="nav__link">Діяльність</a></li>
-            <li class="nav__item"><a href="cooperation.html" class="nav__link">Співпраця</a></li>
-            <li class="nav__item"><a href="news.html" class="nav__link">Новини</a></li>
-            <li class="nav__item"><a href="contacts.html" class="nav__link">Контакти</a></li>
+        <ul class="nav__list" ng-init="tab = 'general'">
+            <li class="nav__item"><button class="nav__link nav__link--checked" ng-click="goToGeneral()">Головна</button></li>
+            <li class="nav__item"><button class="nav__link" ng-click="goToActivity()">Діяльність</button></li>
+            <li class="nav__item"><button class="nav__link" ng-click="goToCooperation()">Співпраця</button></li>
+            <li class="nav__item"><button class="nav__link" ng-click="goToNews()">Новини</button></li>
+            <li class="nav__item"><button class="nav__link">Контакти</button></li>
         </ul>
     </nav>
+
     <div class="content">
-        {{2+3}}
+        <div ng-repeat="article in articles">
+            <p class="content__sub-title">{{article.title}}</p><br>
+            <p class="content__text" ng-repeat="paragraph in article.text">{{paragraph.text}}<br>
+                <ul class="content__list" ng-show="paragraph.list.length && paragraph.list.length > 0"
+                    ng-repeat="paragraphList in paragraph.list">
+                    <li>{{paragraph}}</li>
+                </ul>
+            </p><br>
+            <img class="content__img" ng-show="article.imgUrl && article.imgUrl.length > 0"
+                 ng-repeat="articleImg in article.imgUrl" src="{{articleImgPath}}{{articleImg}}" alt="img">
+        </div>
     </div>
 
     //=    htmlPartials/footer.html
 
 </div>
-
-//= htmlPartials/js.html
-
-<script src="js/soft/jquery-3.2.1.js"></script>
-
 </body>
 </html>

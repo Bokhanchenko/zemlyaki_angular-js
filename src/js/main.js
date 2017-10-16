@@ -2,14 +2,6 @@
     'use strict';
 
 
-    // $(".slider").slick({
-    //     dots: true,
-    //     infinite: true,
-    //     speed: 500,
-    //     fade: true,
-    //     cssEase: 'linear'
-    // });
-
     $('.slider-for').slick({
         slidesToShow: 1,
         slidesToScroll: 1,
@@ -17,7 +9,6 @@
         fade: false,
         asNavFor: '.slider-nav'
     });
-
 
     $('.slider-nav').slick({
         slidesToShow: 3,
@@ -32,3 +23,5 @@
     });
 
 })();
+
+

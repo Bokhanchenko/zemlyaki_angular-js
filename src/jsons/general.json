@@ -8,7 +8,7 @@
         "list": []
       }
     ],
-    "imageUrl": []
+    "imgUrl": []
   },
   {
     "id": 1,
@@ -27,7 +27,7 @@
         "list": []
       }
     ],
-    "imageUrl": []
+    "imgUrl": []
   },
   {
     "id": 2,
@@ -38,7 +38,7 @@
         "list": []
       }
     ],
-    "imageUrl": ""
+    "imgUrl": ""
   },
   {
     "id": 3,
@@ -49,7 +49,7 @@
         "list": []
       }
     ],
-    "imageUrl": [
+    "imgUrl": [
       "img/photos/common-photo.jpg"
     ]
   }

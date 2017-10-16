@@ -9,49 +9,63 @@
     $scope.goToNews = goToNews
     $scope.articleImgPath = ''
 
-    function goToGeneral() {
-      console.log($('nav__link'));
-      $http.get('jsons/general.json').then((data) => {
-        console.log(data.data);
-        $scope.articles = data.data;
+    function initSlider() {
+      console.log("===============================", $('.slider-for'));
+      $('.slider-for').slick({
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        arrows: false,
+        fade: false,
+        asNavFor: '.slider-nav'
       });
+
+      $('.slider-nav').slick({
+        slidesToShow: 3,
+        slidesToScroll: 3,
+        asNavFor: '.slider-for',
+        focusOnSelect: true,
+        dots: false,
+        infinite: true,
+        speed: 300,
+        variableWidth: true,
+        centerMode: true,
+      });
+      console.log('timeout')
+    }
+
+    function goToGeneral() {
+      $http.get('jsons/general.json').then((data) => {
+        $scope.articles = data.data;
+      }).then(initSlider);
     }
 
     function goToActivity() {
-      console.log($('goToActivity'));
       $http.get('jsons/activity.json').then((data) => {
-        console.log(data.data);
+        $scope.articleImgPath = 'img/photos/';
         $scope.articles = data.data;
-      });
+      }).then(initSlider);
     }
 
     function goToCooperation() {
-      console.log($('goToCooperation'));
       $http.get('jsons/cooperation.json').then((data) => {
-        console.log(data.data);
+        $scope.articleImgPath = 'img/photos/';
         $scope.articles = data.data;
-      });
+      }).then(initSlider);
     }
 
     function goToNews() {
-      console.log($('goToNews'));
       $http.get('jsons/news.json').then((data) => {
-        console.log(data.data);
-        $scope.articleImgPath = 'img/photos/news/';
+        $scope.articleImgPath = 'img/news/';
         $scope.articles = data.data;
-      });
+      }).then(initSlider)
     }
 
     $http.get('jsons/general.json').then((data) => {
-      console.log(data.data);
       $scope.articles = data.data;
     });
-
-
   }
 
   ContentCtrl.$inject = ['$scope', '$http'];
   zemlyakiApp.controller('ContentCtrl', ContentCtrl)
-
 
 })();

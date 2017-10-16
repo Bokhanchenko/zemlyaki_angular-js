@@ -59,7 +59,7 @@
         $scope.articles = data.data;
       }).then(initSlider)
     }
-
+initSlider()
     $http.get('jsons/general.json').then((data) => {
       $scope.articles = data.data;
     });

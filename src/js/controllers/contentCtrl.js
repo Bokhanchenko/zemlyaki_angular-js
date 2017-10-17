@@ -11,7 +11,6 @@
 
     function initSlider() {
       setTimeout(()=>{
-        console.log("===============================", $('.slider-for'));
         $('.slider-for').slick({
           slidesToShow: 1,
           slidesToScroll: 1,

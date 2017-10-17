@@ -2,133 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4769074-e046-4706-8879-1e112ff77fd8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/css/fonts/ajax-loader.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news0/DSC09600.JPG" afterPath="$PROJECT_DIR$/src/img/news/news0/dsc09600.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news0/DSC09601.JPG" afterPath="$PROJECT_DIR$/src/img/news/news0/dsc09601.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news0/DSC09767.JPG" afterPath="$PROJECT_DIR$/src/img/news/news0/dsc09767.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news0/DSC09777.JPG" afterPath="$PROJECT_DIR$/src/img/news/news0/dsc09777.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news1/P1290669.JPG" afterPath="$PROJECT_DIR$/src/img/news/news1/p1290669.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news1/P1290675.JPG" afterPath="$PROJECT_DIR$/src/img/news/news1/p1290675.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news1/P1290681.JPG" afterPath="$PROJECT_DIR$/src/img/news/news1/p1290681.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news1/P3112178.JPG" afterPath="$PROJECT_DIR$/src/img/news/news1/p3112178.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news1/P3112179.JPG" afterPath="$PROJECT_DIR$/src/img/news/news1/p3112179.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news1/P3112180.JPG" afterPath="$PROJECT_DIR$/src/img/news/news1/p3112180.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news2/CAM02264.jpg" afterPath="$PROJECT_DIR$/src/img/news/news2/cam02264.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news2/DSC06930.JPG" afterPath="$PROJECT_DIR$/src/img/news/news2/dsc06930.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news2/DSC09078.JPG" afterPath="$PROJECT_DIR$/src/img/news/news2/dsc09078.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news3/DSC06981.JPG" afterPath="$PROJECT_DIR$/src/img/news/news3/dsc06981.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news3/DSC07005.JPG" afterPath="$PROJECT_DIR$/src/img/news/news3/dsc07005.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news4/P1290723.JPG" afterPath="$PROJECT_DIR$/src/img/news/news4/p1290723.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news4/P1290733.JPG" afterPath="$PROJECT_DIR$/src/img/news/news4/p1290733.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news5/DSC00175.JPG" afterPath="$PROJECT_DIR$/src/img/news/news5/dsc00175.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news5/DSC00200.JPG" afterPath="$PROJECT_DIR$/src/img/news/news5/dsc00200.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news5/DSC00223.JPG" afterPath="$PROJECT_DIR$/src/img/news/news5/dsc00223.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news5/DSC00238.JPG" afterPath="$PROJECT_DIR$/src/img/news/news5/dsc00238.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news5/DSC00242.JPG" afterPath="$PROJECT_DIR$/src/img/news/news5/dsc00242.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news7/17546855_1265565763479364_3092511523344778577_o.jpg" afterPath="$PROJECT_DIR$/src/img/news/news7/17546855.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news8/DSC00091.JPG" afterPath="$PROJECT_DIR$/src/img/news/news8/dsc00091.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news8/DSC09990.JPG" afterPath="$PROJECT_DIR$/src/img/news/news8/dsc09990.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news8/DSC09991.JPG" afterPath="$PROJECT_DIR$/src/img/news/news8/dsc09991.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news8/DSC09992.JPG" afterPath="$PROJECT_DIR$/src/img/news/news8/dsc09992.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news8/DSC09993.JPG" afterPath="$PROJECT_DIR$/src/img/news/news8/dsc09993.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news8/DSC09997.JPG" afterPath="$PROJECT_DIR$/src/img/news/news8/dsc09997.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news9/DSC06810.JPG" afterPath="$PROJECT_DIR$/src/img/news/news9/dsc06810.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news9/DSC06815.JPG" afterPath="$PROJECT_DIR$/src/img/news/news9/dsc06815.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news9/DSC06823.JPG" afterPath="$PROJECT_DIR$/src/img/news/news9/dsc06823.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news9/DSC06850.JPG" afterPath="$PROJECT_DIR$/src/img/news/news9/dsc06850.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/news/news9/DSC06875.JPG" afterPath="$PROJECT_DIR$/src/img/news/news9/dsc06875.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/ajax-loader.gif" afterPath="$PROJECT_DIR$/build/css/ajax-loader.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/events/DSC00091.JPG" afterPath="$PROJECT_DIR$/src/img/photos/events/dsc00091.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/events/DSC01363.JPG" afterPath="$PROJECT_DIR$/src/img/photos/events/dsc01363.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/events/DSC03935.JPG" afterPath="$PROJECT_DIR$/src/img/photos/events/dsc03935.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/events/DSC06668.JPG" afterPath="$PROJECT_DIR$/src/img/photos/events/dsc06668.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/events/DSC06787.JPG" afterPath="$PROJECT_DIR$/src/img/photos/events/dsc06787.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/events/DSC07005.JPG" afterPath="$PROJECT_DIR$/src/img/photos/events/dsc07005.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/events/DSCN0261.JPG" afterPath="$PROJECT_DIR$/src/img/photos/events/dscn0261.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/events/DSCN1157.JPG" afterPath="$PROJECT_DIR$/src/img/photos/events/dscn1157.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/events/DSCN4175.JPG" afterPath="$PROJECT_DIR$/src/img/photos/events/dscn4175.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/events/DSCN4662.JPG" afterPath="$PROJECT_DIR$/src/img/photos/events/dscn4662.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/events/DSC_0418.jpg" afterPath="$PROJECT_DIR$/src/img/photos/events/dsc_0418.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/events/IMG_2050.JPG" afterPath="$PROJECT_DIR$/src/img/photos/events/img_2050.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/goroshku/DSC00098.JPG" afterPath="$PROJECT_DIR$/src/img/photos/goroshku/dsc00098.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/goroshku/DSC00116.JPG" afterPath="$PROJECT_DIR$/src/img/photos/goroshku/dsc00116.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/goroshku/DSC00119.JPG" afterPath="$PROJECT_DIR$/src/img/photos/goroshku/dsc00119.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/goroshku/DSC01425.JPG" afterPath="$PROJECT_DIR$/src/img/photos/goroshku/dsc01425.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/goroshku/DSC01429.JPG" afterPath="$PROJECT_DIR$/src/img/photos/goroshku/dsc01429.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/goroshku/DSC03363.JPG" afterPath="$PROJECT_DIR$/src/img/photos/goroshku/dsc03363.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/goroshku/DSC03411.JPG" afterPath="$PROJECT_DIR$/src/img/photos/goroshku/dsc03411.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/goroshku/DSC03422.JPG" afterPath="$PROJECT_DIR$/src/img/photos/goroshku/dsc03422.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/goroshku/DSCN3418.JPG" afterPath="$PROJECT_DIR$/src/img/photos/goroshku/dscn3418.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/inaba/CIMG0491.JPG" afterPath="$PROJECT_DIR$/src/img/photos/inaba/cimg0491.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/inaba/DSC01585.JPG" afterPath="$PROJECT_DIR$/src/img/photos/inaba/dsc01585.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/inaba/DSC02261.JPG" afterPath="$PROJECT_DIR$/src/img/photos/inaba/dsc02261.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/inaba/DSC03707.JPG" afterPath="$PROJECT_DIR$/src/img/photos/inaba/dsc03707.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/inaba/DSC03908.JPG" afterPath="$PROJECT_DIR$/src/img/photos/inaba/dsc03908.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/medicine/DSC01998.JPG" afterPath="$PROJECT_DIR$/src/img/photos/medicine/dsc01998.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/medicine/DSC02011.JPG" afterPath="$PROJECT_DIR$/src/img/photos/medicine/dsc02011.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/medicine/DSCN0091.JPG" afterPath="$PROJECT_DIR$/src/img/photos/medicine/dscn0091.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/medicine/DSCN0664.JPG" afterPath="$PROJECT_DIR$/src/img/photos/medicine/dscn0664.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/medicine/IMG_2960.JPG" afterPath="$PROJECT_DIR$/src/img/photos/medicine/img_2960.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/oliver/DSC00206.JPG" afterPath="$PROJECT_DIR$/src/img/photos/oliver/dsc00206.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/oliver/DSC03469.JPG" afterPath="$PROJECT_DIR$/src/img/photos/oliver/dsc03469.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/oliver/DSC03481.JPG" afterPath="$PROJECT_DIR$/src/img/photos/oliver/dsc03481.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/oliver/DSC05603.JPG" afterPath="$PROJECT_DIR$/src/img/photos/oliver/dsc05603.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/oliver/DSC06677.JPG" afterPath="$PROJECT_DIR$/src/img/photos/oliver/dsc06677.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/oliver/DSC07345.JPG" afterPath="$PROJECT_DIR$/src/img/photos/oliver/dsc07345.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/oliver/DSCN1332.JPG" afterPath="$PROJECT_DIR$/src/img/photos/oliver/dscn1332.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/oliver/DSCN1336.JPG" afterPath="$PROJECT_DIR$/src/img/photos/oliver/dscn1336.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/oliver/DSCN1359.JPG" afterPath="$PROJECT_DIR$/src/img/photos/oliver/dscn1359.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/oliver/DSCN3609.JPG" afterPath="$PROJECT_DIR$/src/img/photos/oliver/dscn3609.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/oliver/DSCN3700.JPG" afterPath="$PROJECT_DIR$/src/img/photos/oliver/dscn3700.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/oliver/DSCN3839.JPG" afterPath="$PROJECT_DIR$/src/img/photos/oliver/dscn3839.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/oliver/DSC_8657.JPG" afterPath="$PROJECT_DIR$/src/img/photos/oliver/dsc_8657.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/rolf/DSC06806.JPG" afterPath="$PROJECT_DIR$/src/img/photos/rolf/dsc06806.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/rolf/DSC09346.JPG" afterPath="$PROJECT_DIR$/src/img/photos/rolf/dsc09346.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/rolf/DSC09485.JPG" afterPath="$PROJECT_DIR$/src/img/photos/rolf/dsc09485.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/rolf/DSCN1087.JPG" afterPath="$PROJECT_DIR$/src/img/photos/rolf/dscn1087.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/rolf/DSCN1094.JPG" afterPath="$PROJECT_DIR$/src/img/photos/rolf/dscn1094.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/rolf/DSCN2640.JPG" afterPath="$PROJECT_DIR$/src/img/photos/rolf/dscn2640.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/rolf/PIC_0202.JPG" afterPath="$PROJECT_DIR$/src/img/photos/rolf/pic_0202.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/rolf/PIC_0230.JPG" afterPath="$PROJECT_DIR$/src/img/photos/rolf/pic_0230.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/saveplanet/DSC00454.JPG" afterPath="$PROJECT_DIR$/src/img/photos/saveplanet/dsc00454.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/saveplanet/DSC01612.JPG" afterPath="$PROJECT_DIR$/src/img/photos/saveplanet/dsc01612.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/saveplanet/DSC01638.JPG" afterPath="$PROJECT_DIR$/src/img/photos/saveplanet/dsc01638.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/saveplanet/DSC01681.JPG" afterPath="$PROJECT_DIR$/src/img/photos/saveplanet/dsc01681.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/saveplanet/DSC03689.JPG" afterPath="$PROJECT_DIR$/src/img/photos/saveplanet/dsc03689.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/saveplanet/DSC03691.JPG" afterPath="$PROJECT_DIR$/src/img/photos/saveplanet/dsc03691.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/saveplanet/DSC06404.JPG" afterPath="$PROJECT_DIR$/src/img/photos/saveplanet/dsc06404.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/saveplanet/IMG_9303.jpg" afterPath="$PROJECT_DIR$/src/img/photos/saveplanet/img_9303.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/saveplanet/IMG_9391.jpg" afterPath="$PROJECT_DIR$/src/img/photos/saveplanet/img_9391.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/saveplanet/P1290731.JPG" afterPath="$PROJECT_DIR$/src/img/photos/saveplanet/p1290731.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/slick.ttf" afterPath="$PROJECT_DIR$/build/css/fonts/slick.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/slick.woff" afterPath="$PROJECT_DIR$/build/css/fonts/slick.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/socialhelp/DSC01009.JPG" afterPath="$PROJECT_DIR$/src/img/photos/socialhelp/dsc01009.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/socialhelp/DSC06083.JPG" afterPath="$PROJECT_DIR$/src/img/photos/socialhelp/dsc06083.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/tatianaberch/DSC06823.JPG" afterPath="$PROJECT_DIR$/src/img/photos/tatianaberch/dsc0683.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/tatianaberch/DSC06833.JPG" afterPath="$PROJECT_DIR$/src/img/photos/tatianaberch/dsc06833.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/tatianaberch/DSC06836.JPG" afterPath="$PROJECT_DIR$/src/img/photos/tatianaberch/dsc06836.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/tatianaberch/DSC06923.JPG" afterPath="$PROJECT_DIR$/src/img/photos/tatianaberch/dsc06923.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/tatianaberch/DSC09599.JPG" afterPath="$PROJECT_DIR$/src/img/photos/tatianaberch/dsc09599.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/yoga-terapy/DSC00305.JPG" afterPath="$PROJECT_DIR$/src/img/photos/yoga-terapy/dsc00305.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/yoga-terapy/DSC01058.JPG" afterPath="$PROJECT_DIR$/src/img/photos/yoga-terapy/dsc01058.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/yoga-terapy/DSC01072.JPG" afterPath="$PROJECT_DIR$/src/img/photos/yoga-terapy/dsc01072.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/yoga-terapy/DSC01112.JPG" afterPath="$PROJECT_DIR$/src/img/photos/yoga-terapy/dsc01112.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/yoga-terapy/DSC03536.JPG" afterPath="$PROJECT_DIR$/src/img/photos/yoga-terapy/dsc03536.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/yoga-terapy/DSC05629.JPG" afterPath="$PROJECT_DIR$/src/img/photos/yoga-terapy/dsc05629.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/yoga-terapy/DSCN0254.JPG" afterPath="$PROJECT_DIR$/src/img/photos/yoga-terapy/dscn0254.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/yoga-terapy/DSCN2189.JPG" afterPath="$PROJECT_DIR$/src/img/photos/yoga-terapy/dscn2189.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/photos/yoga-terapy/sP1010169.jpg" afterPath="$PROJECT_DIR$/src/img/photos/yoga-terapy/sp1010169.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/htmlPartials/js.html" afterPath="$PROJECT_DIR$/src/htmlPartials/js.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/controllers/contentCtrl.js" afterPath="$PROJECT_DIR$/build/js/controllers/contentCtrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/soft/angular.js" afterPath="$PROJECT_DIR$/build/js/soft/angular.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/soft/angular.min.js" afterPath="$PROJECT_DIR$/build/js/soft/angular.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/controllers/contentCtrl.js" afterPath="$PROJECT_DIR$/src/js/controllers/contentCtrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/main.js" afterPath="$PROJECT_DIR$/src/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsons/activity.json" afterPath="$PROJECT_DIR$/src/jsons/activity.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsons/cooperation.json" afterPath="$PROJECT_DIR$/src/jsons/cooperation.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsons/general.json" afterPath="$PROJECT_DIR$/src/jsons/general.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsons/news.json" afterPath="$PROJECT_DIR$/src/jsons/news.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/style/partials/global.scss" afterPath="$PROJECT_DIR$/src/style/partials/global.scss" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -141,12 +19,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
+            <state relative-caret-position="561">
               <caret line="33" column="49" lean-forward="false" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
               <folding />
             </state>
@@ -156,7 +35,7 @@
       <file leaf-file-name="global.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/style/partials/global.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-119">
+            <state relative-caret-position="238">
               <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding />
             </state>
@@ -166,11 +45,39 @@
       <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1003">
+            <state relative-caret-position="799">
               <caret line="167" column="29" lean-forward="false" selection-start-line="167" selection-start-column="29" selection-end-line="167" selection-end-column="29" />
               <folding>
-                <element signature="e#14#44#0" expanded="false" />
-                <element signature="e#733#765#0" expanded="false" />
+                <marker date="1508228430235" expanded="false" signature="14:731" ph="//..." />
+                <marker date="1508228430235" expanded="false" signature="733:3811" ph="//..." />
+                <marker date="1508228430235" expanded="true" signature="4587:5299" ph="{&quot;clean&quot;: 'build'...}" />
+                <marker date="1508228430235" expanded="true" signature="4600:4770" ph="{&quot;html&quot;: 'build/'...}" />
+                <marker date="1508228430235" expanded="true" signature="4781:5063" ph="{&quot;html&quot;: 'src/*.html'...}" />
+                <marker date="1508228430235" expanded="true" signature="5076:5277" ph="{&quot;html&quot;: 'src/**/*.html'...}" />
+                <marker date="1508228430235" expanded="true" signature="5315:5450" ph="{&quot;host&quot;: 'localhost'...}" />
+                <marker date="1508228430235" expanded="true" signature="5329:5362" ph="{&quot;baseDir&quot;: &quot;./dist&quot;...}" />
+                <marker date="1508228430235" expanded="true" signature="5480:5530" ph="{...}" />
+                <marker date="1508228430235" expanded="true" signature="5569:5677" ph="{...}" />
+                <marker date="1508228430235" expanded="true" signature="5718:5988" ph="{...}" />
+                <marker date="1508228430235" expanded="true" signature="6027:6381" ph="{...}" />
+                <marker date="1508228430235" expanded="true" signature="6077:6148" ph="{...}" />
+                <marker date="1508228430235" expanded="true" signature="6423:6874" ph="{...}" />
+                <marker date="1508228430235" expanded="true" signature="6535:6616" ph="{...}" />
+                <marker date="1508228430235" expanded="true" signature="6643:6726" ph="{...}" />
+                <marker date="1508228430235" expanded="true" signature="6916:7325" ph="{...}" />
+                <marker date="1508228430235" expanded="true" signature="7034:7052" ph="{...}" />
+                <marker date="1508228430235" expanded="true" signature="7365:7468" ph="{...}" />
+                <marker date="1508228430235" expanded="true" signature="7491:7602" ph="[...]" />
+                <marker date="1508228430235" expanded="true" signature="7636:8202" ph="{...}" />
+                <marker date="1508228430235" expanded="true" signature="7688:7729" ph="{...}" />
+                <marker date="1508228430235" expanded="true" signature="7782:7824" ph="{...}" />
+                <marker date="1508228430235" expanded="true" signature="7874:7913" ph="{...}" />
+                <marker date="1508228430235" expanded="true" signature="7967:8010" ph="{...}" />
+                <marker date="1508228430235" expanded="true" signature="8061:8103" ph="{...}" />
+                <marker date="1508228430235" expanded="true" signature="8156:8198" ph="{...}" />
+                <marker date="1508228430235" expanded="true" signature="8238:8333" ph="{...}" />
+                <marker date="1508228430235" expanded="true" signature="8256:8329" ph="{...}" />
+                <marker date="1508228430235" expanded="true" signature="8370:8401" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -179,8 +86,8 @@
       <file leaf-file-name="contentCtrl.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/js/controllers/contentCtrl.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="857">
-              <caret line="58" column="36" lean-forward="false" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+            <state relative-caret-position="578">
+              <caret line="34" column="12" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -232,7 +139,6 @@
     <exe-path />
     <annotation-enable>false</annotation-enable>
     <other-services-enabled>true</other-services-enabled>
-    <auto-save>true</auto-save>
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
@@ -241,11 +147,11 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="49" />
-    <option name="y" value="347" />
-    <option name="width" value="1392" />
-    <option name="height" value="915" />
+    <option name="y" value="-14" />
+    <option name="width" value="1872" />
+    <option name="height" value="1095" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -262,64 +168,26 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <expand>
-            <path>
-              <item name="zemlyaki-angular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zemlyaki-angular" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zemlyaki-angular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zemlyaki-angular" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zemlyaki-angular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zemlyaki-angular" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zemlyaki-angular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zemlyaki-angular" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zemlyaki-angular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zemlyaki-angular" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="jsons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zemlyaki-angular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zemlyaki-angular" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zemlyaki-angular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zemlyaki-angular" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zemlyaki-angular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zemlyaki-angular" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jsons" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zemlyaki-angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zemlyaki-angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../angular/angularjs-tutorial" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
@@ -376,11 +244,12 @@
       <workItem from="1507745195132" duration="839000" />
       <workItem from="1508142506994" duration="12070000" />
       <workItem from="1508157427167" duration="9204000" />
+      <workItem from="1508231782260" duration="289000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41832000" />
+    <option name="totallyTimeSpent" value="42121000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -392,32 +261,32 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="-14" width="1392" height="915" extended-state="6" />
+    <frame x="49" y="-14" width="1872" height="1095" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15846403" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16879795" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18334551" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24198553" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -427,6 +296,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/js/controllers/contentCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="36" lean-forward="false" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
@@ -439,7 +316,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
           <caret line="52" column="17" lean-forward="true" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -447,7 +323,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
           <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -463,7 +338,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1258">
           <caret line="74" column="5" lean-forward="false" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -471,7 +345,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -479,7 +352,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -496,8 +368,36 @@
         <state relative-caret-position="867">
           <caret line="51" column="43" lean-forward="false" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
           <folding>
-            <element signature="e#14#44#0" expanded="false" />
-            <element signature="e#733#765#0" expanded="false" />
+            <marker date="1508228430235" expanded="false" signature="14:731" ph="//..." />
+            <marker date="1508228430235" expanded="false" signature="733:3811" ph="//..." />
+            <marker date="1508228430235" expanded="true" signature="4587:5299" ph="{&quot;clean&quot;: 'build'...}" />
+            <marker date="1508228430235" expanded="true" signature="4600:4770" ph="{&quot;html&quot;: 'build/'...}" />
+            <marker date="1508228430235" expanded="true" signature="4781:5063" ph="{&quot;html&quot;: 'src/*.html'...}" />
+            <marker date="1508228430235" expanded="true" signature="5076:5277" ph="{&quot;html&quot;: 'src/**/*.html'...}" />
+            <marker date="1508228430235" expanded="true" signature="5315:5450" ph="{&quot;host&quot;: 'localhost'...}" />
+            <marker date="1508228430235" expanded="true" signature="5329:5362" ph="{&quot;baseDir&quot;: &quot;./dist&quot;...}" />
+            <marker date="1508228430235" expanded="true" signature="5480:5530" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="5569:5677" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="5718:5988" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="6027:6381" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="6077:6148" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="6423:6874" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="6535:6616" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="6643:6726" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="6916:7325" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7034:7052" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7365:7468" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7491:7602" ph="[...]" />
+            <marker date="1508228430235" expanded="true" signature="7636:8202" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7688:7729" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7782:7824" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7874:7913" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7967:8010" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="8061:8103" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="8156:8198" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="8238:8333" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="8256:8329" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="8370:8401" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -506,7 +406,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -523,8 +422,36 @@
         <state relative-caret-position="221">
           <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
           <folding>
-            <element signature="e#14#44#0" expanded="false" />
-            <element signature="e#733#765#0" expanded="false" />
+            <marker date="1508228430235" expanded="false" signature="14:731" ph="//..." />
+            <marker date="1508228430235" expanded="false" signature="733:3811" ph="//..." />
+            <marker date="1508228430235" expanded="true" signature="4587:5299" ph="{&quot;clean&quot;: 'build'...}" />
+            <marker date="1508228430235" expanded="true" signature="4600:4770" ph="{&quot;html&quot;: 'build/'...}" />
+            <marker date="1508228430235" expanded="true" signature="4781:5063" ph="{&quot;html&quot;: 'src/*.html'...}" />
+            <marker date="1508228430235" expanded="true" signature="5076:5277" ph="{&quot;html&quot;: 'src/**/*.html'...}" />
+            <marker date="1508228430235" expanded="true" signature="5315:5450" ph="{&quot;host&quot;: 'localhost'...}" />
+            <marker date="1508228430235" expanded="true" signature="5329:5362" ph="{&quot;baseDir&quot;: &quot;./dist&quot;...}" />
+            <marker date="1508228430235" expanded="true" signature="5480:5530" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="5569:5677" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="5718:5988" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="6027:6381" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="6077:6148" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="6423:6874" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="6535:6616" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="6643:6726" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="6916:7325" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7034:7052" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7365:7468" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7491:7602" ph="[...]" />
+            <marker date="1508228430235" expanded="true" signature="7636:8202" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7688:7729" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7782:7824" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7874:7913" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7967:8010" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="8061:8103" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="8156:8198" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="8238:8333" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="8256:8329" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="8370:8401" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -533,7 +460,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -550,8 +476,36 @@
         <state relative-caret-position="17">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding>
-            <element signature="e#14#44#0" expanded="false" />
-            <element signature="e#733#765#0" expanded="false" />
+            <marker date="1508228430235" expanded="false" signature="14:731" ph="//..." />
+            <marker date="1508228430235" expanded="false" signature="733:3811" ph="//..." />
+            <marker date="1508228430235" expanded="true" signature="4587:5299" ph="{&quot;clean&quot;: 'build'...}" />
+            <marker date="1508228430235" expanded="true" signature="4600:4770" ph="{&quot;html&quot;: 'build/'...}" />
+            <marker date="1508228430235" expanded="true" signature="4781:5063" ph="{&quot;html&quot;: 'src/*.html'...}" />
+            <marker date="1508228430235" expanded="true" signature="5076:5277" ph="{&quot;html&quot;: 'src/**/*.html'...}" />
+            <marker date="1508228430235" expanded="true" signature="5315:5450" ph="{&quot;host&quot;: 'localhost'...}" />
+            <marker date="1508228430235" expanded="true" signature="5329:5362" ph="{&quot;baseDir&quot;: &quot;./dist&quot;...}" />
+            <marker date="1508228430235" expanded="true" signature="5480:5530" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="5569:5677" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="5718:5988" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="6027:6381" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="6077:6148" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="6423:6874" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="6535:6616" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="6643:6726" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="6916:7325" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7034:7052" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7365:7468" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7491:7602" ph="[...]" />
+            <marker date="1508228430235" expanded="true" signature="7636:8202" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7688:7729" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7782:7824" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7874:7913" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7967:8010" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="8061:8103" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="8156:8198" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="8238:8333" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="8256:8329" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="8370:8401" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -560,7 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -568,7 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -576,22 +528,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/Новости/фото 1/DSC09600.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/jquery/src/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-129">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/Новости/фото 1/DSC09600.JPG" />
+    <entry file="file://$PROJECT_DIR$/bower_components/jquery/src/jquery.js" />
     <entry file="file://$PROJECT_DIR$/src/js/soft/angular.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -648,18 +589,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/angular-resource/angular-resource.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/angular-resource/angular-resource.js" />
     <entry file="file://$PROJECT_DIR$/src/style/partials/menu-nav.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
           <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -667,7 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="591">
           <caret line="71" column="29" lean-forward="false" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -683,7 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-462">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -691,7 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -699,7 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="439" column="32" lean-forward="false" selection-start-line="439" selection-start-column="32" selection-end-line="439" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -707,7 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="10" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="21" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -715,17 +644,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1003">
+        <state relative-caret-position="799">
           <caret line="167" column="29" lean-forward="false" selection-start-line="167" selection-start-column="29" selection-end-line="167" selection-end-column="29" />
           <folding>
-            <element signature="e#14#44#0" expanded="false" />
-            <element signature="e#733#765#0" expanded="false" />
+            <marker date="1508228430235" expanded="false" signature="14:731" ph="//..." />
+            <marker date="1508228430235" expanded="false" signature="733:3811" ph="//..." />
+            <marker date="1508228430235" expanded="true" signature="4587:5299" ph="{&quot;clean&quot;: 'build'...}" />
+            <marker date="1508228430235" expanded="true" signature="4600:4770" ph="{&quot;html&quot;: 'build/'...}" />
+            <marker date="1508228430235" expanded="true" signature="4781:5063" ph="{&quot;html&quot;: 'src/*.html'...}" />
+            <marker date="1508228430235" expanded="true" signature="5076:5277" ph="{&quot;html&quot;: 'src/**/*.html'...}" />
+            <marker date="1508228430235" expanded="true" signature="5315:5450" ph="{&quot;host&quot;: 'localhost'...}" />
+            <marker date="1508228430235" expanded="true" signature="5329:5362" ph="{&quot;baseDir&quot;: &quot;./dist&quot;...}" />
+            <marker date="1508228430235" expanded="true" signature="5480:5530" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="5569:5677" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="5718:5988" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="6027:6381" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="6077:6148" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="6423:6874" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="6535:6616" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="6643:6726" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="6916:7325" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7034:7052" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7365:7468" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7491:7602" ph="[...]" />
+            <marker date="1508228430235" expanded="true" signature="7636:8202" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7688:7729" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7782:7824" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7874:7913" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="7967:8010" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="8061:8103" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="8156:8198" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="8238:8333" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="8256:8329" ph="{...}" />
+            <marker date="1508228430235" expanded="true" signature="8370:8401" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -734,7 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="55" lean-forward="false" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -742,7 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -758,7 +712,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
           <caret line="46" column="18" lean-forward="false" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -766,7 +719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2676">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -774,7 +726,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="526">
           <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -782,13 +733,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="176" column="0" lean-forward="false" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/style/partials/global.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-119">
+        <state relative-caret-position="238">
           <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
           <folding />
         </state>
@@ -798,7 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="526">
           <caret line="292" column="0" lean-forward="false" selection-start-line="292" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -806,13 +755,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="509">
           <caret line="186" column="0" lean-forward="false" selection-start-line="186" selection-start-column="0" selection-end-line="186" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="561">
           <caret line="33" column="49" lean-forward="false" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
           <folding />
         </state>
@@ -820,8 +768,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/controllers/contentCtrl.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="857">
-          <caret line="58" column="36" lean-forward="false" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+        <state relative-caret-position="578">
+          <caret line="34" column="12" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
           <folding />
         </state>
       </provider>

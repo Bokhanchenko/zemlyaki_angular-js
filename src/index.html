@@ -19,42 +19,18 @@
 
     <nav class="nav">
         <ul class="nav__list">
-            <li class="nav__item"><button class="nav__link nav__link--checked" ng-click="goToGeneral()">Головна</button></li>
-            <li class="nav__item"><button class="nav__link" ng-click="goToActivity()">Діяльність</button></li>
-            <li class="nav__item"><button class="nav__link" ng-click="goToCooperation()">Співпраця</button></li>
-            <li class="nav__item"><button class="nav__link" ng-click="goToNews()">Новини</button></li>
-            <li class="nav__item"><button class="nav__link">Контакти</button></li>
+            <li class="nav__item"><a class="nav__link nav__link--checked" href="#!/">Головна</a></li>
+            <li class="nav__item"><a class="nav__link" href="#!/activity">Діяльність</a></li>
+            <li class="nav__item"><a class="nav__link" href="#!/cooperation">Співпраця</a></li>
+            <li class="nav__item"><a class="nav__link" href="#!/news">Новини</a></li>
+            <li class="nav__item"><a class="nav__link" href="#!/contacts">Контакти</a></li>
         </ul>
     </nav>
 
     <div class="content">
-        <div ng-repeat="article in articles">
-            <p class="content__sub-title">{{article.title}}</p><br>
-            <p class="content__text" ng-repeat="paragraph in article.text">{{paragraph.text}}<br>
-                <ul class="content__list" ng-show="paragraph.list.length && paragraph.list.length > 0">
-                    <li ng-repeat="paragraphList in paragraph.list">{{paragraphList}}</li>
-                </ul>
-            </p><br>
 
-            <img class="content__img" ng-show="article.imgUrl && article.imgUrl.length === 1"
-                  src="{{articleImgPath}}{{article.imgUrl[0]}}" alt="img">
+        <ng-view></ng-view>
 
-
-            <div class="slider" ng-show="article.imgUrl && article.imgUrl.length > 1">
-                <div class="slider-for">
-                    <div class="slider-for__box" ng-repeat="articleImg in article.imgUrl">
-                        <img class="slider-for__img" src="{{articleImgPath}}{{articleImg}}" alt="img">
-                    </div>
-                </div>
-
-                <div class="slider-nav">
-                    <div class="slider-nav__box" ng-repeat="articleImg in article.imgUrl">
-                        <img class="slider-nav__img" src="{{articleImgPath}}{{articleImg}}" alt="img">
-                    </div>
-                </div>
-            </div>
-
-        </div>
     </div>
 
     //=    htmlPartials/footer.html

@@ -156,7 +156,7 @@ let path = {
         json: 'build/jsons/'
     },
     src: {
-        html: 'src/*.html',
+        html: ['src/**/*.html'],
         js: 'src/js/**/*.js',
         style: 'src/style/*.scss',
         img: ['src/img/**/**.*', 'src/img/**', 'src/img/*.*', 'src/img/photos/**/**.*', 'src/img/photos/**/*.*'],

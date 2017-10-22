@@ -36,7 +36,7 @@
     function goToGeneral() {
       $http.get('jsons/general.json').then((data) => {
         $scope.articles = data.data;
-      }).then(initSlider);
+      }).then(initSlider);+
     }
 
     function goToActivity() {
@@ -56,7 +56,7 @@
     function goToNews() {
       $http.get('jsons/news.json').then((data) => {
         $scope.articleImgPath = 'img/news/';
-        $scope.articles = data.data;
+        $scope.articles = data.data;,
       }).then(initSlider)
     }
 initSlider()

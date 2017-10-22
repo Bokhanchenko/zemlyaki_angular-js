@@ -10,27 +10,29 @@
     $scope.articleImgPath = ''
 
     function initSlider() {
-      console.log("===============================", $('.slider-for'));
-      $('.slider-for').slick({
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        arrows: false,
-        fade: false,
-        asNavFor: '.slider-nav'
-      });
+      setTimeout(()=>{
+        $('.slider-for').slick({
+          slidesToShow: 1,
+          slidesToScroll: 1,
+          arrows: false,
+          fade: false,
+          asNavFor: '.slider-nav'
+        });
 
-      $('.slider-nav').slick({
-        slidesToShow: 3,
-        slidesToScroll: 3,
-        asNavFor: '.slider-for',
-        focusOnSelect: true,
-        dots: false,
-        infinite: true,
-        speed: 300,
-        variableWidth: true,
-        centerMode: true,
-      });
-      console.log('timeout')
+        $('.slider-nav').slick({
+          slidesToShow: 3,
+          slidesToScroll: 3,
+          asNavFor: '.slider-for',
+          focusOnSelect: true,
+          dots: false,
+          infinite: true,
+          speed: 300,
+          variableWidth: true,
+          centerMode: true,
+        });
+        console.log('timeout')
+      }, 500)
+
     }
 
     function goToGeneral() {
@@ -59,10 +61,11 @@
         $scope.articles = data.data;,
       }).then(initSlider)
     }
-initSlider()
+
     $http.get('jsons/general.json').then((data) => {
       $scope.articles = data.data;
     });
+    initSlider()
   }
 
   ContentCtrl.$inject = ['$scope', '$http'];

@@ -35,8 +35,9 @@
                     <li ng-repeat="paragraphList in paragraph.list">{{paragraphList}}</li>
                 </ul>
             </p><br>
+
             <img class="content__img" ng-show="article.imgUrl && article.imgUrl.length === 1"
-                 ng-repeat="articleImg in article.imgUrl" src="{{articleImgPath}}{{articleImg}}" alt="img">
+                  src="{{articleImgPath}}{{article.imgUrl[0]}}" alt="img">
 
 
             <div class="slider" ng-show="article.imgUrl && article.imgUrl.length > 1">

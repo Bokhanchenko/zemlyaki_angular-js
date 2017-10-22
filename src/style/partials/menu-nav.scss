@@ -17,6 +17,7 @@
     border-left: 1px solid;
     border-color: $borderColor;
     list-style: none;
+    outline: none;
     &:last-child {
       border-bottom: 1px solid $borderColor;
       @include media-s {
@@ -33,10 +34,13 @@
   }
   &__link {
     display: block;
-    width: auto;
+    width: 100%;
     text-align: center;
     padding: 10px 20px;
+    border: none;
+    cursor: pointer;
     text-decoration: none;
+    outline: none;
     color: $wightTextColor;
     text-shadow: $textShadow;
     font: {

@@ -152,21 +152,24 @@ let path = {
         js: 'build/js/',
         css: 'build/css/',
         img: 'build/img/',
-        fonts: 'build/fonts/'
+        fonts: 'build/fonts/',
+        json: 'build/jsons/'
     },
     src: {
         html: 'src/*.html',
         js: 'src/js/**/*.js',
         style: 'src/style/*.scss',
-        img: 'src/img/**/**',
-        fonts: 'src/fonts/**/*.*'
+        img: ['src/img/**/**.*', 'src/img/**', 'src/img/*.*', 'src/img/photos/**/**.*', 'src/img/photos/**/*.*'],
+        fonts: 'src/fonts/**/*.*',
+        json: 'src/jsons/*.json'
     },
     watch: {
         html: 'src/**/*.html',
         js: 'src/js/**/*.js',
         style: 'src/style/**/*.scss',
         img: 'src/img/**',
-        fonts: 'src/fonts/**/*.*'
+        fonts: 'src/fonts/**/*.*',
+        json: 'src/jsons/*.json'
     },
     clean: 'build'
 };
@@ -185,6 +188,12 @@ let logErr = function( err){
     console.warn( err);
     this.emit( 'end');
 }
+
+gulp.task( 'json:build', function () {
+  gulp.src( path.src.json)
+    .pipe( gulp.dest( path.build.json))
+    .pipe( reload( { stream: true}));
+});
 
 gulp.task( 'html:build', function () {
     gulp.src( path.src.html)
@@ -251,6 +260,7 @@ gulp.task('fonts:build', function() {
 gulp.task('build', [
     'html:build',
     'js:build',
+    'json:build',
     'style:build',
     'fonts:build',
     'image:build'
@@ -267,6 +277,9 @@ gulp.task('watch', function(){
     watch([path.watch.js], function(event, cb) {
         gulp.start('js:build');
     });
+      watch([path.watch.json], function(event, cb) {
+        gulp.start('json:build');
+      });
     watch([path.watch.img], function(event, cb) {
         gulp.start('image:build');
     });

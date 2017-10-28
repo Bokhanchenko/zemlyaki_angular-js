@@ -201,7 +201,7 @@ gulp.task( 'html:build', function () {
         .pipe( plumber())
         .pipe( rigger())
         .pipe( useref())
-        .pipe( htmlmin({collapseWhitespace: true}))
+        // .pipe( htmlmin({collapseWhitespace: true}))
         .pipe( gulp.dest( path.build.html))
         .pipe( reload( { stream: true}));
 });

@@ -10,7 +10,6 @@
   }
 
   GeneralCtrl.$inject = ['$scope', '$http'];
-  zemlyakiApp.controller('GeneralCtrl', GeneralCtrl)
 })();
 
 

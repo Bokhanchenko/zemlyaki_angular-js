@@ -35,4 +35,4 @@
 
   CooperationCtrl.$inject = ['$scope', '$http'];
   zemlyakiApp.controller('CooperationCtrl', CooperationCtrl)
-  })();
+})();

@@ -32,7 +32,9 @@
     }).then(initSlider)
   }
 
-
+  NewsCtrl.$inject = ['$scope', '$http'];
+  zemlyakiApp.controller('NewsCtrl', NewsCtrl)
 })();
-NewsCtrl.$inject = ['$scope', '$http'];
-zemlyakiApp.controller('NewsCtrl', NewsCtrl)
+
+
+

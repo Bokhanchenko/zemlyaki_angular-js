@@ -6,16 +6,12 @@ zemlyakiApp
 
         }
 
-
-
-
-
-
         return {
             getGeneralArticles: () => {
-                return $http.get('jsons/general.json')
-                    .then(data => data)
-                    .catch(e => console.log(e))
+                return "hello"
+                // return $http.get('jsons/general.json')
+                //     .then(data => data)
+                //     .catch(e => console.log(e))
             }
         };
     }]);

@@ -1,14 +1,17 @@
 const zemlyakiApp = angular.module('zemlyakiApp', ['ngRoute']);
 
-zemlyakiApp.config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider) {
+zemlyakiApp.config(['$routeProvider', '$locationProvider', function($routeProvider) {
   $routeProvider
     .when('/', {
       templateUrl: 'template/articles.html',
       controller: 'GeneralCtrl',
+      // resolve: {
+      //   'articles': () => {
+      //       return 'err';
+      //   }}
       resolve: {
-          articles: () => {
-              return 'err';
-          }}
+        'articles': serviceArticles => serviceArticles.getGeneralArticles()
+        }
     })
     .when('/activity', {
       templateUrl: 'template/articles.html',

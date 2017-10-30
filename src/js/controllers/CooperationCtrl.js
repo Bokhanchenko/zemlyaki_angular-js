@@ -34,5 +34,5 @@
 
 
   CooperationCtrl.$inject = ['$scope', '$http'];
-  angular.module('zemlyakiApp').controller('CooperationCtrl', CooperationCtrl)
+  zemlyakiApp.controller('CooperationCtrl', CooperationCtrl)
 })();

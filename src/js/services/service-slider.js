@@ -1,6 +1,4 @@
 (() => {
-
-
   function initSlider() {
     setTimeout(()=>{
       $('.slider-for').slick({

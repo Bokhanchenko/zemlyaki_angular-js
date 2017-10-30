@@ -13,17 +13,17 @@
 
 </head>
 <body>
-<div class="wrapper">
+<div class="wrapper" ng-controller="MainCtrl">
 
     //= htmlPartials/header.html
 
     <nav class="nav">
         <ul class="nav__list">
-            <li class="nav__item"><a class="nav__link nav__link--checked" href="#!/">Головна</a></li>
-            <li class="nav__item"><a class="nav__link" href="#!/activity">Діяльність</a></li>
-            <li class="nav__item"><a class="nav__link" href="#!/cooperation">Співпраця</a></li>
-            <li class="nav__item"><a class="nav__link" href="#!/news">Новини</a></li>
-            <li class="nav__item"><a class="nav__link" href="#!/contacts">Контакти</a></li>
+            <li class="nav__item"><a class="nav__link" ng-class="menuClass('')" ng-href="#!/">Головна</a></li>
+            <li class="nav__item"><a class="nav__link" ng-class="menuClass('activity')" ng-href="#!/activity">Діяльність</a></li>
+            <li class="nav__item"><a class="nav__link" ng-class="menuClass('cooperation')" ng-href="#!/cooperation">Співпраця</a></li>
+            <li class="nav__item"><a class="nav__link" ng-class="menuClass('news')" ng-href="#!/news">Новини</a></li>
+            <li class="nav__item"><a class="nav__link" ng-class="menuClass('contacts')" ng-href="#!/contacts">Контакти</a></li>
         </ul>
     </nav>
 

@@ -10,8 +10,8 @@ zemlyakiApp.config(['$routeProvider', '$locationProvider', function($routeProvid
       //       return 'err';
       //   }}
       // resolve: {
-      //   'articles': serviceArticles => serviceArticles.getGeneralArticles()
-      //   }
+      //   'articles': serviceArticles=>serviceArticles.getGeneralArticles(),
+      // }
     })
     .when('/activity', {
       templateUrl: 'template/articles.html',
@@ -33,7 +33,7 @@ zemlyakiApp.config(['$routeProvider', '$locationProvider', function($routeProvid
       redirectTo: '/'
     })
 
-}])
+}]);
 
 // zemlyakiApp.config(($stateProvider) => {
 //     $stateProvider

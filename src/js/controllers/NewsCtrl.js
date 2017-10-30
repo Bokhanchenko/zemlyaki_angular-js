@@ -28,7 +28,7 @@
     };
 
     $http.get('jsons/news.json').then((data) => {
-      $scope.articles = data.data;
+      $scope.articles = data.data.reverse();
     }).then(initSlider)
   }
 

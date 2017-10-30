@@ -1,8 +1,12 @@
-const zemlyakiApp = angular.module('zemlyakiApp', ['ngRoute']);
+const zemlyakiApp = angular.module('zemlyakiApp', ["ui.router"])
 
-zemlyakiApp.config(['$routeProvider', '$locationProvider', function($routeProvider) {
-  $routeProvider
-    .when('/', {
+.config(['$stateProvider', '$urlRouterProvider', function($stateProvider, $urlRouterProvider) {
+
+  $urlRouterProvider.otherwise('/');
+
+  $stateProvider
+    .state('general', {
+      url: '/',
       templateUrl: 'template/articles.html',
       controller: 'GeneralCtrl',
       // resolve: {
@@ -13,54 +17,26 @@ zemlyakiApp.config(['$routeProvider', '$locationProvider', function($routeProvid
       //   'articles': serviceArticles=>serviceArticles.getGeneralArticles(),
       // }
     })
-    .when('/activity', {
+    .state('activity', {
+      url: '/activity',
       templateUrl: 'template/articles.html',
       controller: 'ActivityCtrl'
     })
-    .when('/cooperation', {
+    .state('cooperation', {
+      url: '/cooperation',
       templateUrl: 'template/articles.html',
       controller: 'CooperationCtrl'
     })
-    .when('/news', {
+    .state('news', {
+      url: '/news',
       templateUrl: 'template/articles.html',
       controller: 'NewsCtrl'
     })
-    .when('/contacts', {
+    .state('contacts', {
+      url: '/contacts',
       templateUrl: 'template/contacts.html',
       controller: 'ContactsCtrl'
-    })
-    .otherwise({
-      redirectTo: '/'
-    })
+    });
 
 }]);
-
-// zemlyakiApp.config(($stateProvider) => {
-//     $stateProvider
-//         .state('/', {
-//           templateUrl: 'template/articles.html',
-//           controller: 'GeneralCtrl'
-//         })
-//         .state('/activity', {
-//           templateUrl: 'template/articles.html',
-//           controller: 'ActivityCtrl'
-//         })
-//         .state('/cooperation', {
-//           templateUrl: 'template/articles.html',
-//           controller: 'CooperationCtrl'
-//         })
-//         .state('/news', {
-//           templateUrl: 'template/articles.html',
-//           controller: 'NewsCtrl'
-//         })
-//         .state('/contacts', {
-//           templateUrl: 'template/contacts.html',
-//           controller: 'ContactsCtrl'
-//         })
-//         .otherwise({
-//           redirectTo: '/'
-//         })
-// });
-
-
 

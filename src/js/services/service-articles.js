@@ -1,22 +1,18 @@
 zemlyakiApp
-    .factory('serviceArticles', ['$route', 'batchLog', '$rootScope', '$http',
-    function($route, batchLog, $rootScope, $http) {
+  .factory('serviceArticles', ['$http',
+    function ($http) {
 
-      console.log('kddddddjsi')
-        function getGeneralArticles() {
+      function getArticles(name) {
+        return $http.get(`jsons/${name}.json`)
+          .then(data => {
+            return data.data
+          })
+          .catch(e => console.log(e))
+      }
 
-        }
-
-        return {
-            getGeneralArticles: () => {
-
-                console.log('kdjsi')
-                return "hello"
-                // return $http.get('jsons/general.json')
-                //     .then(data => data)
-                //     .catch(e => console.log(e))
-            }
-        };
+      return {
+        getArticles
+      };
     }]);
 
 

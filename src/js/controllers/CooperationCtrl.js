@@ -1,38 +1,44 @@
 (() => {
-  function CooperationCtrl($scope, $http) {
-    console.log('CooperationCtrl');
+  function CooperationCtrl($scope, serviceArticles) {
     $scope.articleImgPath = 'img/photos/';
 
     const initSlider = () => {
-      setTimeout(()=>{
-        $('.slider-for').slick({
-          slidesToShow: 1,
-          slidesToScroll: 1,
-          arrows: false,
-          fade: false,
-          asNavFor: '.slider-nav'
-        });
+      angular.element(document).ready(() => {
+        const allSliderFor = $('.slider-for')
+        const allSliderNav = $('.slider-nav')
 
-        $('.slider-nav').slick({
-          slidesToShow: 3,
-          slidesToScroll: 3,
-          asNavFor: '.slider-for',
-          focusOnSelect: true,
-          dots: false,
-          infinite: true,
-          speed: 300,
-          variableWidth: true,
-          centerMode: true,
-        });
-      }, 500)
-    }
+        for (let i = 0, l = allSliderFor.length; i < l; i++) {
+          $(allSliderFor[i]).addClass(`slider-for${i}`)
+          $(allSliderNav[i]).addClass(`slider-nav${i}`)
 
-    $http.get('jsons/cooperation.json').then((data) => {
-      $scope.articles = data.data;
+          $(`.slider-for${i}`).slick({
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            arrows: false,
+            fade: false,
+            asNavFor: `.slider-nav${i}`
+          });
+
+          $(`.slider-nav${i}`).slick({
+            slidesToShow: 3,
+            slidesToScroll: 3,
+            asNavFor: `.slider-for${i}`,
+            focusOnSelect: true,
+            dots: false,
+            infinite: true,
+            speed: 300,
+            variableWidth: true,
+            centerMode: true,
+          });
+        }
+      })
+    };
+
+    serviceArticles.getArticles('cooperation').then(data => {
+      $scope.articles = data
     }).then(initSlider);
   }
 
-
-  CooperationCtrl.$inject = ['$scope', '$http'];
+  CooperationCtrl.$inject = ['$scope', 'serviceArticles'];
   zemlyakiApp.controller('CooperationCtrl', CooperationCtrl)
 })();

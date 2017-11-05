@@ -1,2 +1,35 @@
-"use strict";
-//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNlcnZpY2VzL3NlcnZpY2Utc2xpZGVyLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBIiwiZmlsZSI6InNlcnZpY2VzL3NlcnZpY2Utc2xpZGVyLmpzIiwic291cmNlc0NvbnRlbnQiOlsiJ3VzZSBzdHJpY3QnO1xyXG5cclxuKGZ1bmN0aW9uICgpIHtcclxuICBmdW5jdGlvbiBpbml0U2xpZGVyKCkge1xyXG4gICAgc2V0VGltZW91dChmdW5jdGlvbiAoKSB7XHJcbiAgICAgICQoJy5zbGlkZXItZm9yJykuc2xpY2soe1xyXG4gICAgICAgIHNsaWRlc1RvU2hvdzogMSxcclxuICAgICAgICBzbGlkZXNUb1Njcm9sbDogMSxcclxuICAgICAgICBhcnJvd3M6IGZhbHNlLFxyXG4gICAgICAgIGZhZGU6IGZhbHNlLFxyXG4gICAgICAgIGFzTmF2Rm9yOiAnLnNsaWRlci1uYXYnXHJcbiAgICAgIH0pO1xyXG5cclxuICAgICAgJCgnLnNsaWRlci1uYXYnKS5zbGljayh7XHJcbiAgICAgICAgc2xpZGVzVG9TaG93OiAzLFxyXG4gICAgICAgIHNsaWRlc1RvU2Nyb2xsOiAzLFxyXG4gICAgICAgIGFzTmF2Rm9yOiAnLnNsaWRlci1mb3InLFxyXG4gICAgICAgIGZvY3VzT25TZWxlY3Q6IHRydWUsXHJcbiAgICAgICAgZG90czogZmFsc2UsXHJcbiAgICAgICAgaW5maW5pdGU6IHRydWUsXHJcbiAgICAgICAgc3BlZWQ6IDMwMCxcclxuICAgICAgICB2YXJpYWJsZVdpZHRoOiB0cnVlLFxyXG4gICAgICAgIGNlbnRlck1vZGU6IHRydWVcclxuICAgICAgfSk7XHJcbiAgICAgIGNvbnNvbGUubG9nKCd0aW1lb3V0Jyk7XHJcbiAgICB9LCA1MDApO1xyXG4gIH1cclxufSkoKTsiXX0=
+'use strict';
+
+(function () {
+  function initSlider() {
+    angular.element(document).ready(function () {
+      var allSliderFor = $('.slider-for');
+      var allSliderNav = $('.slider-nav');
+
+      for (var i = 0, l = allSliderFor.length; i < l; i++) {
+        $(allSliderFor[i]).addClass('slider-for' + i);
+        $(allSliderNav[i]).addClass('slider-nav' + i);
+
+        $('.slider-for' + i).slick({
+          slidesToShow: 1,
+          slidesToScroll: 1,
+          arrows: false,
+          fade: false,
+          asNavFor: '.slider-nav' + i
+        });
+
+        $('.slider-nav' + i).slick({
+          slidesToShow: 3,
+          slidesToScroll: 3,
+          asNavFor: '.slider-for' + i,
+          focusOnSelect: true,
+          dots: false,
+          infinite: true,
+          speed: 300,
+          variableWidth: true,
+          centerMode: true
+        });
+      }
+    });
+  }
+})();

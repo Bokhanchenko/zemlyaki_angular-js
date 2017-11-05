@@ -1,2 +1,14 @@
-"use strict";!function(){function t(t,e){t.articleImgPath="../",e.get("jsons/general.json").then(function(e){t.articles=e.data,console.log(e.data)})}t.$inject=["$scope","$http"],zemlyakiApp.controller("GeneralCtrl",t)}();
-//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbnRyb2xsZXJzL0dlbmVyYWxDdHJsLmpzIl0sIm5hbWVzIjpbIkdlbmVyYWxDdHJsIiwiJHNjb3BlIiwiJGh0dHAiLCJhcnRpY2xlSW1nUGF0aCIsImdldCIsInRoZW4iLCJkYXRhIiwiYXJ0aWNsZXMiLCJjb25zb2xlIiwibG9nIiwiJGluamVjdCIsInplbWx5YWtpQXBwIiwiY29udHJvbGxlciJdLCJtYXBwaW5ncyI6IkFBQUEsY0FFQSxXQUNFLFFBQVNBLEdBQVlDLEVBQVFDLEdBQzNCRCxFQUFPRSxlQUFpQixNQUl4QkQsRUFBTUUsSUFBSSxzQkFBc0JDLEtBQUssU0FBVUMsR0FDN0NMLEVBQU9NLFNBQVdELEVBQUtBLEtBQ3ZCRSxRQUFRQyxJQUFJSCxFQUFLQSxRQUlyQk4sRUFBWVUsU0FBVyxTQUFVLFNBQ2pDQyxZQUFZQyxXQUFXLGNBQWVaIiwiZmlsZSI6ImNvbnRyb2xsZXJzL0dlbmVyYWxDdHJsLmpzIiwic291cmNlc0NvbnRlbnQiOlsiJ3VzZSBzdHJpY3QnO1xyXG5cclxuKGZ1bmN0aW9uICgpIHtcclxuICBmdW5jdGlvbiBHZW5lcmFsQ3RybCgkc2NvcGUsICRodHRwKSB7XHJcbiAgICAkc2NvcGUuYXJ0aWNsZUltZ1BhdGggPSAnLi4vJztcclxuXHJcbiAgICAvLyBjb25zb2xlLmxvZygnYXJ0aWNsZXMnLCBhcnRpY2xlcyk7XHJcblxyXG4gICAgJGh0dHAuZ2V0KCdqc29ucy9nZW5lcmFsLmpzb24nKS50aGVuKGZ1bmN0aW9uIChkYXRhKSB7XHJcbiAgICAgICRzY29wZS5hcnRpY2xlcyA9IGRhdGEuZGF0YTtcclxuICAgICAgY29uc29sZS5sb2coZGF0YS5kYXRhKTtcclxuICAgIH0pO1xyXG4gIH1cclxuXHJcbiAgR2VuZXJhbEN0cmwuJGluamVjdCA9IFsnJHNjb3BlJywgJyRodHRwJ107XHJcbiAgemVtbHlha2lBcHAuY29udHJvbGxlcignR2VuZXJhbEN0cmwnLCBHZW5lcmFsQ3RybCk7XHJcbn0pKCk7Il19
+'use strict';
+
+(function () {
+  function GeneralCtrl($scope, $http, serviceArticles) {
+    $scope.articleImgPath = '../';
+
+    serviceArticles.getArticles('general').then(function (data) {
+      $scope.articles = data;
+    });
+  }
+
+  GeneralCtrl.$inject = ['$scope', '$http', 'serviceArticles'];
+  zemlyakiApp.controller('GeneralCtrl', GeneralCtrl);
+})();

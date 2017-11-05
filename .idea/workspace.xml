@@ -2,32 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4769074-e046-4706-8879-1e112ff77fd8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/js/soft/angular-ui-router.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/js/soft/resolveService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/js/soft/stateEvents.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/js/soft/ui-router-angularjs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/soft/angular-ui-router.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/soft/resolveService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/soft/stateEvents.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/soft/ui-router-angularjs.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/controllers/contentCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/template/activity.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/template/cooperation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/template/news.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/template/activity.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/template/cooperation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/template/news.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/img/news/news5/dsc00238.jpg" afterPath="$PROJECT_DIR$/build/img/news/news5/dsc00238.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/img/news/news5/invitation.jpg" afterPath="$PROJECT_DIR$/build/img/news/news5/invitation.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/img/news/news7/17546855.jpg" afterPath="$PROJECT_DIR$/build/img/news/news7/17546855.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/news/news5/dsc00238.jpg" afterPath="$PROJECT_DIR$/src/img/news/news5/dsc00238.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/news/news5/invitation.jpg" afterPath="$PROJECT_DIR$/src/img/news/news5/invitation.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/news/news7/17546855.jpg" afterPath="$PROJECT_DIR$/src/img/news/news7/17546855.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/style.css" afterPath="$PROJECT_DIR$/build/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/htmlPartials/header.html" afterPath="$PROJECT_DIR$/build/htmlPartials/header.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/htmlPartials/js.html" afterPath="$PROJECT_DIR$/build/htmlPartials/js.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/index.html" afterPath="$PROJECT_DIR$/build/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/controllers/ActivityCtrl.js" afterPath="$PROJECT_DIR$/build/js/controllers/ActivityCtrl.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/controllers/ContactsCtrl.js" afterPath="$PROJECT_DIR$/build/js/controllers/ContactsCtrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/controllers/CooperationCtrl.js" afterPath="$PROJECT_DIR$/build/js/controllers/CooperationCtrl.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/controllers/GeneralCtrl.js" afterPath="$PROJECT_DIR$/build/js/controllers/GeneralCtrl.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/controllers/MainCtrl.js" afterPath="$PROJECT_DIR$/build/js/controllers/MainCtrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/controllers/NewsCtrl.js" afterPath="$PROJECT_DIR$/build/js/controllers/NewsCtrl.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/main.js" afterPath="$PROJECT_DIR$/build/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/services/service-articles.js" afterPath="$PROJECT_DIR$/build/js/services/service-articles.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/services/service-slider.js" afterPath="$PROJECT_DIR$/build/js/services/service-slider.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/soft/angular-resource.min.js" afterPath="$PROJECT_DIR$/build/js/soft/angular-resource.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/soft/angular-route.min.js" afterPath="$PROJECT_DIR$/build/js/soft/angular-route.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/soft/angular-ui-router.js" afterPath="$PROJECT_DIR$/build/js/soft/angular-ui-router.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/soft/angular.js" afterPath="$PROJECT_DIR$/build/js/soft/angular.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/soft/angular.min.js" afterPath="$PROJECT_DIR$/build/js/soft/angular.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/soft/jquery-3.2.1.min.js" afterPath="$PROJECT_DIR$/build/js/soft/jquery-3.2.1.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/soft/jquery-migrate-v1.2.1.js" afterPath="$PROJECT_DIR$/build/js/soft/jquery-migrate-v1.2.1.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/soft/slick.min.js" afterPath="$PROJECT_DIR$/build/js/soft/slick.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/state/config-state-provider.js" afterPath="$PROJECT_DIR$/build/js/state/config-state-provider.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/template/activity.html" afterPath="$PROJECT_DIR$/build/template/activity.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/template/articles.html" afterPath="$PROJECT_DIR$/build/template/articles.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/template/cooperation.html" afterPath="$PROJECT_DIR$/build/template/cooperation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/htmlPartials/header.html" afterPath="$PROJECT_DIR$/src/htmlPartials/header.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/htmlPartials/js.html" afterPath="$PROJECT_DIR$/src/htmlPartials/js.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/controllers/ContactsCtrl.js" afterPath="$PROJECT_DIR$/src/js/controllers/ContactsCtrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/controllers/ActivityCtrl.js" afterPath="$PROJECT_DIR$/src/js/controllers/ActivityCtrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/controllers/CooperationCtrl.js" afterPath="$PROJECT_DIR$/src/js/controllers/CooperationCtrl.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/controllers/GeneralCtrl.js" afterPath="$PROJECT_DIR$/src/js/controllers/GeneralCtrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/controllers/MainCtrl.js" afterPath="$PROJECT_DIR$/src/js/controllers/MainCtrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/controllers/NewsCtrl.js" afterPath="$PROJECT_DIR$/src/js/controllers/NewsCtrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/services/service-articles.js" afterPath="$PROJECT_DIR$/src/js/services/service-articles.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/services/service-slider.js" afterPath="$PROJECT_DIR$/src/js/services/service-slider.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/state/config-state-provider.js" afterPath="$PROJECT_DIR$/src/js/state/config-state-provider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/style/partials/global.scss" afterPath="$PROJECT_DIR$/src/style/partials/global.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/style/partials/header.scss" afterPath="$PROJECT_DIR$/src/style/partials/header.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/style/partials/language.scss" afterPath="$PROJECT_DIR$/src/style/partials/language.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/template/articles.html" afterPath="$PROJECT_DIR$/src/template/articles.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -52,18 +86,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="59" lean-forward="false" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config-state-provider.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/state/config-state-provider.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-100">
-              <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            <state relative-caret-position="439">
+              <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -111,30 +135,34 @@
         <option value="$PROJECT_DIR$/src/jsons/general.json" />
         <option value="$PROJECT_DIR$/src/js/controllers/config-state-provider.js" />
         <option value="$PROJECT_DIR$/src/template/activity.html" />
-        <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/src/js/controllers/contentCtrl.js" />
         <option value="$PROJECT_DIR$/src/js/controllers/news.js" />
         <option value="$PROJECT_DIR$/src/js/controllers/Contacts.js" />
         <option value="$PROJECT_DIR$/src/template/contacts.html" />
         <option value="$PROJECT_DIR$/src/js/config-state-provider.js" />
         <option value="$PROJECT_DIR$/build/index.html" />
-        <option value="$PROJECT_DIR$/src/js/controllers/NewsCtrl.js" />
-        <option value="$PROJECT_DIR$/src/js/controllers/CooperationCtrl.js" />
-        <option value="$PROJECT_DIR$/src/js/controllers/ActivityCtrl.js" />
         <option value="$PROJECT_DIR$/src/jsons/activity.json" />
-        <option value="$PROJECT_DIR$/src/js/services/service-slider.js" />
         <option value="$PROJECT_DIR$/src/style/partials/content.scss" />
         <option value="$PROJECT_DIR$/src/style/partials/constants.scss" />
-        <option value="$PROJECT_DIR$/src/style/partials/global.scss" />
         <option value="$PROJECT_DIR$/build/template/contacts.html" />
-        <option value="$PROJECT_DIR$/src/template/articles.html" />
-        <option value="$PROJECT_DIR$/src/js/services/service-articles.js" />
-        <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/js/controllers/ContactsCtrl.js" />
         <option value="$PROJECT_DIR$/src/js/controllers/MainCtrl.js" />
         <option value="$PROJECT_DIR$/src/htmlPartials/js.html" />
+        <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/js/state/config-state-provider.js" />
+        <option value="$PROJECT_DIR$/src/js/services/service-articles.js" />
+        <option value="$PROJECT_DIR$/src/htmlPartials/header.html" />
         <option value="$PROJECT_DIR$/src/js/controllers/GeneralCtrl.js" />
+        <option value="$PROJECT_DIR$/src/js/controllers/CooperationCtrl.js" />
+        <option value="$PROJECT_DIR$/src/js/controllers/ActivityCtrl.js" />
+        <option value="$PROJECT_DIR$/src/js/services/service-slider.js" />
+        <option value="$PROJECT_DIR$/src/template/articles.html" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/build/template/news.html" />
+        <option value="$PROJECT_DIR$/src/js/controllers/NewsCtrl.js" />
+        <option value="$PROJECT_DIR$/src/style/partials/header.scss" />
+        <option value="$PROJECT_DIR$/src/style/partials/language.scss" />
+        <option value="$PROJECT_DIR$/src/style/partials/global.scss" />
       </list>
     </option>
   </component>
@@ -174,6 +202,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -214,7 +244,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="style" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -232,25 +262,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="style" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="soft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zemlyaki-angular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zemlyaki-angular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
+              <option name="myItemId" value="partials" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -265,10 +281,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -287,17 +299,11 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="soft" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -309,23 +315,24 @@
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="add_unversioned_files" value="true" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/node_modules/@uirouter/angularjs/stats.html&#10;true&#10;/home/kayan/www/zemlyaki-angular/build/img/news/news7/17546855.jpg&#10;/home/kayan/www/zemlyaki-angular/build/jsons/general.json" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/js/soft" />
+      <recent name="$PROJECT_DIR$/build/css/fonts" />
+      <recent name="$PROJECT_DIR$/build/css" />
+      <recent name="$PROJECT_DIR$/build" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/js/state" />
       <recent name="$PROJECT_DIR$/src/js" />
       <recent name="$PROJECT_DIR$/build/css/fonts" />
       <recent name="$PROJECT_DIR$/src/img" />
       <recent name="$PROJECT_DIR$/src/js/soft" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/build/css" />
-      <recent name="$PROJECT_DIR$/build" />
-      <recent name="$PROJECT_DIR$/src/js/soft" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -447,12 +454,15 @@
       <workItem from="1509288416014" duration="9621000" />
       <workItem from="1509298571873" duration="167000" />
       <workItem from="1509350713111" duration="3669000" />
-      <workItem from="1509392174298" duration="2847000" />
+      <workItem from="1509392174298" duration="2499000" />
+      <workItem from="1509877037588" duration="9492000" />
+      <workItem from="1509886778678" duration="935000" />
+      <workItem from="1509890984855" duration="954000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79267000" />
+    <option name="totallyTimeSpent" value="90300000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -465,27 +475,27 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19481303" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1628468" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23404256" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.124300115" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -520,100 +530,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/layouts/Новости/фото 1/DSC09600.JPG" />
-    <entry file="file://$PROJECT_DIR$/bower_components/jquery/src/jquery.js" />
-    <entry file="file://$PROJECT_DIR$/src/js/soft/angular.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/jsons/cooperation.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/jsons/news.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/soft/angular.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/soft/angular-resource.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/angular-resource/angular-resource.js" />
-    <entry file="file://$PROJECT_DIR$/src/style/partials/menu-nav.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/style/partials/slick.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/style/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jsons/cooperation.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="176" column="0" lean-forward="false" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/template/contacts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/jsons/activity.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/js/controllers/contentCtrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/build/js/controllers/contentCtrl.js" />
     <entry file="file://$PROJECT_DIR$/build/js/controllers/contentCtrl.js" />
     <entry file="file://$PROJECT_DIR$/npm-debug.log" />
     <entry file="file://$PROJECT_DIR$/src/js/main.js">
@@ -627,34 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/template/activity.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/template/cooperation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7463">
-          <caret line="439" column="32" lean-forward="false" selection-start-line="439" selection-start-column="32" selection-end-line="439" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/template/news.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/services/service-slider.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -687,13 +576,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="158" column="24" lean-forward="false" selection-start-line="158" selection-start-column="24" selection-end-line="158" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -715,14 +597,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/style/partials/global.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jsons/activity.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -741,55 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/services/service-articles.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/template/articles.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/controllers/NewsCtrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/controllers/ActivityCtrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" lean-forward="true" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/controllers/ContactsCtrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/controllers/CooperationCtrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -797,7 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3078">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -805,15 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="0" column="1078" lean-forward="false" selection-start-line="0" selection-start-column="1078" selection-end-line="0" selection-end-column="1078" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/htmlPartials/js.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="52" lean-forward="true" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -821,38 +636,196 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1260">
           <caret line="70" column="18" lean-forward="false" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/controllers/GeneralCtrl.js">
+    <entry file="file://$PROJECT_DIR$/src/js/soft/ui-router-angularjs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/state/config-state-provider.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/@uirouter/angularjs/stats.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="17">
+          <caret line="136" column="30" lean-forward="true" selection-start-line="136" selection-start-column="30" selection-end-line="136" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/soft/angular-ui-router.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/controllers/MainCtrl.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="68">
+          <caret line="4" column="51" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/jsons/general.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlPartials/js.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="70" lean-forward="false" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlPartials/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="62" lean-forward="false" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/controllers/ContactsCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/services/service-articles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/state/config-state-provider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="62" lean-forward="false" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template/activity.html" />
+    <entry file="file://$PROJECT_DIR$/src/template/cooperation.html" />
+    <entry file="file://$PROJECT_DIR$/src/template/news.html" />
+    <entry file="file://$PROJECT_DIR$/src/template/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/controllers/GeneralCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jsons/cooperation.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2992">
+          <caret line="176" column="0" lean-forward="false" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/controllers/ActivityCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="34" column="6" lean-forward="false" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/services/service-slider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="54" lean-forward="false" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template/articles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="58" lean-forward="false" selection-start-line="0" selection-start-column="58" selection-end-line="0" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/img/news/news7/17546855.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/news/news7/17546855.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="242" column="25" lean-forward="false" selection-start-line="242" selection-start-column="25" selection-end-line="242" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/template/cooperation.html" />
+    <entry file="file://$PROJECT_DIR$/build/template/activity.html" />
+    <entry file="file://$PROJECT_DIR$/build/template/news.html" />
+    <entry file="file://$PROJECT_DIR$/src/style/partials/language.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/partials/mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="14" lean-forward="false" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/partials/global.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="63" column="16" lean-forward="false" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/partials/header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/controllers/NewsCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="38" column="38" lean-forward="false" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/controllers/CooperationCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="53" lean-forward="false" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="59" lean-forward="false" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="59" />
+        <state relative-caret-position="439">
+          <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
           <folding />
         </state>
       </provider>

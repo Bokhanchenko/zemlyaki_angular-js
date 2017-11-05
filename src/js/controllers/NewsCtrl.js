@@ -1,38 +1,46 @@
 (() => {
-  function NewsCtrl($scope, $http) {
+  function NewsCtrl($scope, serviceArticles) {
 
     $scope.articleImgPath = 'img/news/';
 
     const initSlider = () => {
-      setTimeout(()=>{
-        $('.slider-for').slick({
-          slidesToShow: 1,
-          slidesToScroll: 1,
-          arrows: false,
-          fade: false,
-          asNavFor: '.slider-nav'
-        });
+      angular.element(document).ready(() => {
+        const allSliderFor = $('.slider-for')
+        const allSliderNav = $('.slider-nav')
 
-        $('.slider-nav').slick({
-          slidesToShow: 3,
-          slidesToScroll: 3,
-          asNavFor: '.slider-for',
-          focusOnSelect: true,
-          dots: false,
-          infinite: true,
-          speed: 300,
-          variableWidth: true,
-          centerMode: true,
-        });
-      }, 500)
+        for (let i = 0, l = allSliderFor.length; i < l; i++) {
+          $(allSliderFor[i]).addClass(`slider-for${i}`)
+          $(allSliderNav[i]).addClass(`slider-nav${i}`)
+
+          $(`.slider-for${i}`).slick({
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            arrows: false,
+            fade: false,
+            asNavFor: `.slider-nav${i}`
+          });
+
+          $(`.slider-nav${i}`).slick({
+            slidesToShow: 3,
+            slidesToScroll: 3,
+            asNavFor: `.slider-for${i}`,
+            focusOnSelect: true,
+            dots: false,
+            infinite: true,
+            speed: 300,
+            variableWidth: true,
+            centerMode: true,
+          });
+        }
+      })
     };
 
-    $http.get('jsons/news.json').then((data) => {
-      $scope.articles = data.data.reverse();
-    }).then(initSlider)
+    serviceArticles.getArticles('news').then(data => {
+      $scope.articles = data.reverse()
+    }).then(initSlider);
   }
 
-  NewsCtrl.$inject = ['$scope', '$http'];
+  NewsCtrl.$inject = ['$scope', 'serviceArticles'];
   zemlyakiApp.controller('NewsCtrl', NewsCtrl)
 })();
 

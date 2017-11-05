@@ -1,2 +1,30 @@
-"use strict";var zemlyakiApp=angular.module("zemlyakiApp",["ui.router"]).config(["$stateProvider","$urlRouterProvider",function(t,e){e.otherwise("/"),t.state("general",{url:"/",templateUrl:"template/articles.html",controller:"GeneralCtrl"}).state("activity",{url:"/activity",templateUrl:"template/articles.html",controller:"ActivityCtrl"}).state("cooperation",{url:"/cooperation",templateUrl:"template/articles.html",controller:"CooperationCtrl"}).state("news",{url:"/news",templateUrl:"template/articles.html",controller:"NewsCtrl"}).state("contacts",{url:"/contacts",templateUrl:"template/contacts.html",controller:"ContactsCtrl"})}]);
-//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0YXRlL2NvbmZpZy1zdGF0ZS1wcm92aWRlci5qcyJdLCJuYW1lcyI6WyJ6ZW1seWFraUFwcCIsImFuZ3VsYXIiLCJtb2R1bGUiLCJjb25maWciLCIkc3RhdGVQcm92aWRlciIsIiR1cmxSb3V0ZXJQcm92aWRlciIsIm90aGVyd2lzZSIsInN0YXRlIiwidXJsIiwidGVtcGxhdGVVcmwiLCJjb250cm9sbGVyIl0sIm1hcHBpbmdzIjoiQUFBQSxZQUVBLElBQUlBLGFBQWNDLFFBQVFDLE9BQU8sZUFBZ0IsY0FBY0MsUUFBUSxpQkFBa0IscUJBQXNCLFNBQVVDLEVBQWdCQyxHQUV2SUEsRUFBbUJDLFVBQVUsS0FFN0JGLEVBQWVHLE1BQU0sV0FDbkJDLElBQUssSUFDTEMsWUFBYSx5QkFDYkMsV0FBWSxnQkFRWEgsTUFBTSxZQUNQQyxJQUFLLFlBQ0xDLFlBQWEseUJBQ2JDLFdBQVksaUJBQ1hILE1BQU0sZUFDUEMsSUFBSyxlQUNMQyxZQUFhLHlCQUNiQyxXQUFZLG9CQUNYSCxNQUFNLFFBQ1BDLElBQUssUUFDTEMsWUFBYSx5QkFDYkMsV0FBWSxhQUNYSCxNQUFNLFlBQ1BDLElBQUssWUFDTEMsWUFBYSx5QkFDYkMsV0FBWSIsImZpbGUiOiJzdGF0ZS9jb25maWctc3RhdGUtcHJvdmlkZXIuanMiLCJzb3VyY2VzQ29udGVudCI6WyIndXNlIHN0cmljdCc7XHJcblxyXG52YXIgemVtbHlha2lBcHAgPSBhbmd1bGFyLm1vZHVsZSgnemVtbHlha2lBcHAnLCBbXCJ1aS5yb3V0ZXJcIl0pLmNvbmZpZyhbJyRzdGF0ZVByb3ZpZGVyJywgJyR1cmxSb3V0ZXJQcm92aWRlcicsIGZ1bmN0aW9uICgkc3RhdGVQcm92aWRlciwgJHVybFJvdXRlclByb3ZpZGVyKSB7XHJcblxyXG4gICR1cmxSb3V0ZXJQcm92aWRlci5vdGhlcndpc2UoJy8nKTtcclxuXHJcbiAgJHN0YXRlUHJvdmlkZXIuc3RhdGUoJ2dlbmVyYWwnLCB7XHJcbiAgICB1cmw6ICcvJyxcclxuICAgIHRlbXBsYXRlVXJsOiAndGVtcGxhdGUvYXJ0aWNsZXMuaHRtbCcsXHJcbiAgICBjb250cm9sbGVyOiAnR2VuZXJhbEN0cmwnXHJcbiAgICAvLyByZXNvbHZlOiB7XHJcbiAgICAvLyAgICdhcnRpY2xlcyc6ICgpID0+IHtcclxuICAgIC8vICAgICAgIHJldHVybiAnZXJyJztcclxuICAgIC8vICAgfX1cclxuICAgIC8vIHJlc29sdmU6IHtcclxuICAgIC8vICAgJ2FydGljbGVzJzogc2VydmljZUFydGljbGVzPT5zZXJ2aWNlQXJ0aWNsZXMuZ2V0R2VuZXJhbEFydGljbGVzKCksXHJcbiAgICAvLyB9XHJcbiAgfSkuc3RhdGUoJ2FjdGl2aXR5Jywge1xyXG4gICAgdXJsOiAnL2FjdGl2aXR5JyxcclxuICAgIHRlbXBsYXRlVXJsOiAndGVtcGxhdGUvYXJ0aWNsZXMuaHRtbCcsXHJcbiAgICBjb250cm9sbGVyOiAnQWN0aXZpdHlDdHJsJ1xyXG4gIH0pLnN0YXRlKCdjb29wZXJhdGlvbicsIHtcclxuICAgIHVybDogJy9jb29wZXJhdGlvbicsXHJcbiAgICB0ZW1wbGF0ZVVybDogJ3RlbXBsYXRlL2FydGljbGVzLmh0bWwnLFxyXG4gICAgY29udHJvbGxlcjogJ0Nvb3BlcmF0aW9uQ3RybCdcclxuICB9KS5zdGF0ZSgnbmV3cycsIHtcclxuICAgIHVybDogJy9uZXdzJyxcclxuICAgIHRlbXBsYXRlVXJsOiAndGVtcGxhdGUvYXJ0aWNsZXMuaHRtbCcsXHJcbiAgICBjb250cm9sbGVyOiAnTmV3c0N0cmwnXHJcbiAgfSkuc3RhdGUoJ2NvbnRhY3RzJywge1xyXG4gICAgdXJsOiAnL2NvbnRhY3RzJyxcclxuICAgIHRlbXBsYXRlVXJsOiAndGVtcGxhdGUvY29udGFjdHMuaHRtbCcsXHJcbiAgICBjb250cm9sbGVyOiAnQ29udGFjdHNDdHJsJ1xyXG4gIH0pO1xyXG59XSk7Il19
+'use strict';
+
+var zemlyakiApp = angular.module('zemlyakiApp', ['ui.router']);
+
+zemlyakiApp.config(['$stateProvider', '$urlRouterProvider', function ($stateProvider, $urlRouterProvider) {
+
+  $urlRouterProvider.otherwise('/');
+
+  $stateProvider.state('general', {
+    url: '/',
+    templateUrl: 'template/articles.html',
+    controller: 'GeneralCtrl'
+  }).state('activity', {
+    url: '/activity',
+    templateUrl: 'template/articles.html',
+    controller: 'ActivityCtrl'
+  }).state('cooperation', {
+    url: '/cooperation',
+    templateUrl: 'template/articles.html',
+    controller: 'CooperationCtrl'
+  }).state('news', {
+    url: '/news',
+    templateUrl: 'template/articles.html',
+    controller: 'NewsCtrl'
+  }).state('contacts', {
+    url: '/contacts',
+    templateUrl: 'template/contacts.html',
+    controller: 'ContactsCtrl'
+  });
+}]);

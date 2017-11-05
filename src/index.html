@@ -13,23 +13,25 @@
 
 </head>
 <body>
-<div class="wrapper" ng-controller="MainCtrl">
+<div class="wrapper">
 
     //= htmlPartials/header.html
 
     <nav class="nav">
         <ul class="nav__list">
-            <li class="nav__item"><a class="nav__link" ng-class="menuClass('')" ui-sref="#!/">Головна</a></li>
-            <li class="nav__item"><a class="nav__link" ng-class="menuClass('activity')" ui-sref="#!/activity">Діяльність</a></li>
-            <li class="nav__item"><a class="nav__link" ng-class="menuClass('cooperation')" ui-sref="#!/cooperation">Співпраця</a></li>
-            <li class="nav__item"><a class="nav__link" ng-class="menuClass('news')" ui-sref="#!/news">Новини</a></li>
-            <li class="nav__item"><a class="nav__link" ng-class="menuClass('contacts')" ui-sref="#!/contacts">Контакти</a></li>
+            <li class="nav__item"><a class="nav__link" ui-sref-active='nav__link--checked' ui-sref="general">Головна</a></li>
+            <li class="nav__item"><a class="nav__link" ui-sref-active='nav__link--checked' ui-sref="activity">Діяльність</a></li>
+            <li class="nav__item"><a class="nav__link" ui-sref-active='nav__link--checked' ui-sref="cooperation">Співпраця</a></li>
+            <li class="nav__item"><a class="nav__link" ui-sref-active='nav__link--checked' ui-sref="news">Новини</a></li>
+            <li class="nav__item"><a class="nav__link" ui-sref-active='nav__link--checked' ui-sref="contacts">Контакти</a></li>
         </ul>
     </nav>
 
     <div class="content">
 
-        <ui-view></ui-view>
+        <ui-view>
+            Loading...
+        </ui-view>
 
     </div>
 

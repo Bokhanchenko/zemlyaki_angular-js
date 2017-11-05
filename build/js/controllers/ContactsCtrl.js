@@ -1,2 +1,8 @@
-"use strict";!function(){function t(t,c){}t.$inject=["$scope","$http"],zemlyakiApp.controller("ContactsCtrl",t)}();
-//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbnRyb2xsZXJzL0NvbnRhY3RzQ3RybC5qcyJdLCJuYW1lcyI6WyJDb250YWN0c0N0cmwiLCIkc2NvcGUiLCIkaHR0cCIsIiRpbmplY3QiLCJ6ZW1seWFraUFwcCIsImNvbnRyb2xsZXIiXSwibWFwcGluZ3MiOiJBQUFBLGNBRUEsV0FDRSxRQUFTQSxHQUFhQyxFQUFRQyxJQUU5QkYsRUFBYUcsU0FBVyxTQUFVLFNBQ2xDQyxZQUFZQyxXQUFXLGVBQWdCTCIsImZpbGUiOiJjb250cm9sbGVycy9Db250YWN0c0N0cmwuanMiLCJzb3VyY2VzQ29udGVudCI6WyIndXNlIHN0cmljdCc7XHJcblxyXG4oZnVuY3Rpb24gKCkge1xyXG4gIGZ1bmN0aW9uIENvbnRhY3RzQ3RybCgkc2NvcGUsICRodHRwKSB7fVxyXG5cclxuICBDb250YWN0c0N0cmwuJGluamVjdCA9IFsnJHNjb3BlJywgJyRodHRwJ107XHJcbiAgemVtbHlha2lBcHAuY29udHJvbGxlcignQ29udGFjdHNDdHJsJywgQ29udGFjdHNDdHJsKTtcclxufSkoKTsiXX0=
+'use strict';
+
+(function () {
+  function ContactsCtrl($scope, $http) {}
+
+  ContactsCtrl.$inject = ['$scope', '$http'];
+  zemlyakiApp.controller('ContactsCtrl', ContactsCtrl);
+})();

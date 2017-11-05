@@ -6,6 +6,13 @@
   -webkit-box-shadow: $boxShadow;
   -moz-box-shadow: $boxShadow;
   box-shadow: $boxShadow;
+  &__box {
+    margin: 0 0 20px;
+  }
+  &__date {
+    font-size: 16px;
+    font-weight: 700;
+  }
   &__title {
     padding: 20px 0;
     font: {

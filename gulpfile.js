@@ -212,11 +212,11 @@ gulp.task( 'js:build', function () {
             presets: ['es2015'],
             compact: false
         }))
-        .pipe( plumber())
-        .pipe( rigger())
-        .pipe( sourcemaps.init())
-        .pipe( uglify())
-        .pipe( sourcemaps.write())
+        // .pipe( plumber())
+        // .pipe( rigger())
+        // .pipe( sourcemaps.init())
+        // .pipe( uglify())
+        // .pipe( sourcemaps.write())
         .pipe( gulp.dest( path.build.js))
         .pipe( reload( { stream: true}));
 });
@@ -232,15 +232,14 @@ gulp.task( 'style:build', function () {
             browsers: ['last 100 versions'],
             cascade: false
         }))
-        .pipe( cssmin())
-        .pipe( sourcemaps.write())
+        // .pipe( cssmin())
+        // .pipe( sourcemaps.write())
         .pipe( gulp.dest(path.build.css))
         .pipe( reload( { stream: true}));
 });
 
 gulp.task( 'image:build', function () {
-    console.log(path.src.img)
-    gulp.src(path.src.img)
+    // gulp.src(path.src.img)
         .pipe( plumber())
         .pipe( rename( (path) => {
             path.dirname = changeCase.lowerCase(path.dirname);

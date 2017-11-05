@@ -1,20 +1,13 @@
 (() => {
-  function GeneralCtrl($scope, $http) {
-    console.log('GeneralCtrl');
+  function GeneralCtrl($scope, $http, serviceArticles) {
+    $scope.articleImgPath = '../';
 
-    let ctrl = this
+    serviceArticles.getArticles('general').then(data => {
+      $scope.articles = data
+    });
 
-    ctrl.articleImgPath = '../';
-
-    $http.get('jsons/general.json').then((data) => {
-      ctrl.articles = data.data;
-      console.log(data.data);
-    })
   }
 
-  GeneralCtrl.$inject = ['$scope', '$http'];
+  GeneralCtrl.$inject = ['$scope', '$http', 'serviceArticles'];
   zemlyakiApp.controller('GeneralCtrl', GeneralCtrl)
 })();
-
-
-

@@ -1,2 +1,25 @@
-"use strict";
-//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEiLCJmaWxlIjoibWFpbi5qcyIsInNvdXJjZXNDb250ZW50IjpbIid1c2Ugc3RyaWN0JztcblxuKGZ1bmN0aW9uICgpIHtcbiAgICAndXNlIHN0cmljdCc7XG5cbiAgICAvLyAkKCcuc2xpZGVyLWZvcicpLnNsaWNrKHtcbiAgICAvLyAgICAgc2xpZGVzVG9TaG93OiAxLFxuICAgIC8vICAgICBzbGlkZXNUb1Njcm9sbDogMSxcbiAgICAvLyAgICAgYXJyb3dzOiBmYWxzZSxcbiAgICAvLyAgICAgZmFkZTogZmFsc2UsXG4gICAgLy8gICAgIGFzTmF2Rm9yOiAnLnNsaWRlci1uYXYnXG4gICAgLy8gfSk7XG4gICAgLy9cbiAgICAvLyAkKCcuc2xpZGVyLW5hdicpLnNsaWNrKHtcbiAgICAvLyAgICAgc2xpZGVzVG9TaG93OiAzLFxuICAgIC8vICAgICBzbGlkZXNUb1Njcm9sbDogMyxcbiAgICAvLyAgICAgYXNOYXZGb3I6ICcuc2xpZGVyLWZvcicsXG4gICAgLy8gICAgIGZvY3VzT25TZWxlY3Q6IHRydWUsXG4gICAgLy8gICAgIGRvdHM6IGZhbHNlLFxuICAgIC8vICAgICBpbmZpbml0ZTogdHJ1ZSxcbiAgICAvLyAgICAgc3BlZWQ6IDMwMCxcbiAgICAvLyAgICAgdmFyaWFibGVXaWR0aDogdHJ1ZSxcbiAgICAvLyAgICAgY2VudGVyTW9kZTogdHJ1ZSxcbiAgICAvLyB9KTtcbn0pKCk7Il19
+'use strict';
+
+(function () {
+    'use strict';
+
+    // $('.slider-for').slick({
+    //     slidesToShow: 1,
+    //     slidesToScroll: 1,
+    //     arrows: false,
+    //     fade: false,
+    //     asNavFor: '.slider-nav'
+    // });
+    //
+    // $('.slider-nav').slick({
+    //     slidesToShow: 3,
+    //     slidesToScroll: 3,
+    //     asNavFor: '.slider-for',
+    //     focusOnSelect: true,
+    //     dots: false,
+    //     infinite: true,
+    //     speed: 300,
+    //     variableWidth: true,
+    //     centerMode: true,
+    // });
+})();

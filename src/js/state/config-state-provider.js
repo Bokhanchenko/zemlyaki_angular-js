@@ -1,32 +1,34 @@
-const zemlyakiApp = angular.module('zemlyakiApp', ['ngRoute']);
+const zemlyakiApp = angular.module('zemlyakiApp', ['ui.router']);
 
-zemlyakiApp.config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider) {
-  $routeProvider
-    .when('/', {
-      templateUrl: 'template/articles.html',
-      controller: 'GeneralCtrl'
-    })
-    .when('/activity', {
-      templateUrl: 'template/articles.html',
-      controller: 'ActivityCtrl'
-    })
-    .when('/cooperation', {
-      templateUrl: 'template/articles.html',
-      controller: 'CooperationCtrl'
-    })
-    .when('/news', {
-      templateUrl: 'template/articles.html',
-      controller: 'NewsCtrl'
-    })
-    .when('/contacts', {
-      templateUrl: 'template/contacts.html',
-      controller: 'ContactsCtrl'
-    })
-    .otherwise({
-      redirectTo: '/'
-    })
+zemlyakiApp.config(['$stateProvider', '$urlRouterProvider', function($stateProvider, $urlRouterProvider) {
 
-}])
+    $urlRouterProvider.otherwise('/');
 
-
+    $stateProvider
+      .state('general', {
+        url: '/',
+        templateUrl: 'template/articles.html',
+        controller: 'GeneralCtrl',
+      })
+      .state('activity', {
+        url: '/activity',
+        templateUrl: 'template/articles.html',
+        controller: 'ActivityCtrl'
+      })
+      .state('cooperation', {
+        url: '/cooperation',
+        templateUrl: 'template/articles.html',
+        controller: 'CooperationCtrl'
+      })
+      .state('news', {
+        url: '/news',
+        templateUrl: 'template/articles.html',
+        controller: 'NewsCtrl'
+      })
+      .state('contacts', {
+        url: '/contacts',
+        templateUrl: 'template/contacts.html',
+        controller: 'ContactsCtrl'
+      });
+  }]);
 

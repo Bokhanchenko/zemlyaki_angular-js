@@ -11,6 +11,23 @@ html {
 body {
   width: 100%;
   min-height: 100vh;
+  overflow-y: scroll;
+  &::-webkit-scrollbar {
+    width: 12px;
+    background-color: $grey;
+  }
+
+  &::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    background-color: $grey;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+    background-color: $scrollColor;
+  }
   @include media-l {
     background: url("../img/back-gener-2.jpg") no-repeat center center fixed;
     background-size: cover;
@@ -84,6 +101,7 @@ body {
       -webkit-box-shadow: $imgShadow;
       -moz-box-shadow: $imgShadow;
       box-shadow: $imgShadow;
+      cursor: pointer;
     }
   }
 }

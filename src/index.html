@@ -19,17 +19,19 @@
 
     <nav class="nav">
         <ul class="nav__list">
-            <li class="nav__item"><a class="nav__link nav__link--checked" href="#!/">Головна</a></li>
-            <li class="nav__item"><a class="nav__link" href="#!/activity">Діяльність</a></li>
-            <li class="nav__item"><a class="nav__link" href="#!/cooperation">Співпраця</a></li>
-            <li class="nav__item"><a class="nav__link" href="#!/news">Новини</a></li>
-            <li class="nav__item"><a class="nav__link" href="#!/contacts">Контакти</a></li>
+            <li class="nav__item"><a class="nav__link" ui-sref-active='nav__link--checked' ui-sref="general">Головна</a></li>
+            <li class="nav__item"><a class="nav__link" ui-sref-active='nav__link--checked' ui-sref="activity">Діяльність</a></li>
+            <li class="nav__item"><a class="nav__link" ui-sref-active='nav__link--checked' ui-sref="cooperation">Співпраця</a></li>
+            <li class="nav__item"><a class="nav__link" ui-sref-active='nav__link--checked' ui-sref="news">Новини</a></li>
+            <li class="nav__item"><a class="nav__link" ui-sref-active='nav__link--checked' ui-sref="contacts">Контакти</a></li>
         </ul>
     </nav>
 
     <div class="content">
 
-        <ng-view></ng-view>
+        <ui-view>
+            Loading...
+        </ui-view>
 
     </div>
 

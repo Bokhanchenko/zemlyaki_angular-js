@@ -1,5 +1,4 @@
 (() => {
-
   function ContactsCtrl($scope, $http) {
 
   }

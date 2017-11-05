@@ -1,10 +1,13 @@
 (() => {
   function GeneralCtrl($scope, $http) {
     console.log('GeneralCtrl');
-    $scope.articleImgPath = '../';
+
+    let ctrl = this
+
+    ctrl.articleImgPath = '../';
 
     $http.get('jsons/general.json').then((data) => {
-      $scope.articles = data.data;
+      ctrl.articles = data.data;
       console.log(data.data);
     })
   }

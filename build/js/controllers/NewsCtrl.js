@@ -38,7 +38,7 @@
     };
 
     serviceArticles.getArticles('news').then(function (data) {
-      $scope.articles = data;
+      $scope.articles = data.reverse();
     }).then(initSlider);
   }
 

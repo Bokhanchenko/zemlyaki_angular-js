@@ -239,7 +239,7 @@ gulp.task( 'style:build', function () {
 });
 
 gulp.task( 'image:build', function () {
-    // gulp.src(path.src.img)
+    gulp.src(path.src.img)
         .pipe( plumber())
         .pipe( rename( (path) => {
             path.dirname = changeCase.lowerCase(path.dirname);

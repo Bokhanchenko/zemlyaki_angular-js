@@ -5090,7 +5090,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
                    // set the location.hash to the id of
                    // the element you wish to scroll to.
                    $location.hash('bottom');
-                    // call $anchorScroll()
+                     // call $anchorScroll()
                    $anchorScroll();
                  };
                }]);
@@ -5100,7 +5100,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
              height: 280px;
              overflow: auto;
            }
-            #bottom {
+             #bottom {
              display: block;
              margin-top: 2000px;
            }
@@ -5149,17 +5149,17 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
            body {
              padding-top: 50px;
            }
-            .anchor {
+             .anchor {
              border: 2px dashed DarkOrchid;
              padding: 10px 10px 200px 10px;
            }
-            .fixed-header {
+             .fixed-header {
              background-color: rgba(0, 0, 0, 0.2);
              height: 50px;
              position: fixed;
              top: 0; left: 0; right: 0;
            }
-            .fixed-header > a {
+             .fixed-header > a {
              display: inline-block;
              margin: 5px 15px;
            }
@@ -11810,10 +11810,10 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
         function($scope, $http, $templateCache) {
           $scope.method = 'GET';
           $scope.url = 'http-hello.html';
-           $scope.fetch = function() {
+            $scope.fetch = function() {
             $scope.code = null;
             $scope.response = null;
-             $http({method: $scope.method, url: $scope.url, cache: $templateCache}).
+              $http({method: $scope.method, url: $scope.url, cache: $templateCache}).
               then(function(response) {
                 $scope.status = response.status;
                 $scope.data = response.data;
@@ -11822,7 +11822,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
                 $scope.status = response.status;
             });
           };
-           $scope.updateModel = function(method, url) {
+            $scope.updateModel = function(method, url) {
             $scope.method = method;
             $scope.url = url;
           };
@@ -17179,9 +17179,9 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
        * ```js
            var parent = $rootScope;
            var child = parent.$new();
-            parent.salutation = "Hello";
+             parent.salutation = "Hello";
            expect(child.salutation).toEqual('Hello');
-            child.salutation = "Welcome";
+             child.salutation = "Welcome";
            expect(child.salutation).toEqual('Welcome');
            expect(parent.salutation).toEqual('Hello');
        * ```
@@ -17351,21 +17351,21 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
              var scope = $rootScope;
              scope.name = 'misko';
              scope.counter = 0;
-              expect(scope.counter).toEqual(0);
+               expect(scope.counter).toEqual(0);
              scope.$watch('name', function(newValue, oldValue) {
                scope.counter = scope.counter + 1;
              });
              expect(scope.counter).toEqual(0);
-              scope.$digest();
+               scope.$digest();
              // the listener is always called during the first $digest loop after it was registered
              expect(scope.counter).toEqual(1);
-              scope.$digest();
+               scope.$digest();
              // but now it will not be called unless the value changes
              expect(scope.counter).toEqual(1);
-              scope.name = 'adam';
+               scope.name = 'adam';
              scope.$digest();
              expect(scope.counter).toEqual(2);
-                // Using a function as a watchExpression
+                   // Using a function as a watchExpression
              var food;
              scope.foodCounter = 0;
              expect(scope.foodCounter).toEqual(0);
@@ -17382,14 +17382,14 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
              );
              // No digest has been run so the counter will be zero
              expect(scope.foodCounter).toEqual(0);
-              // Run the digest but since food has not changed count will still be zero
+               // Run the digest but since food has not changed count will still be zero
              scope.$digest();
              expect(scope.foodCounter).toEqual(0);
-              // Update food and run digest.  Now the counter will increment
+               // Update food and run digest.  Now the counter will increment
              food = 'cheeseburger';
              scope.$digest();
              expect(scope.foodCounter).toEqual(1);
-          * ```
+           * ```
          *
          *
          *
@@ -17589,16 +17589,16 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
          * ```js
             $scope.names = ['igor', 'matias', 'misko', 'james'];
             $scope.dataCount = 4;
-             $scope.$watchCollection('names', function(newNames, oldNames) {
+              $scope.$watchCollection('names', function(newNames, oldNames) {
               $scope.dataCount = newNames.length;
             });
-             expect($scope.dataCount).toEqual(4);
+              expect($scope.dataCount).toEqual(4);
             $scope.$digest();
-             //still at 4 ... no changes
+              //still at 4 ... no changes
             expect($scope.dataCount).toEqual(4);
-             $scope.names.pop();
+              $scope.names.pop();
             $scope.$digest();
-             //now there's been a change
+              //now there's been a change
             expect($scope.dataCount).toEqual(3);
          * ```
          *
@@ -17785,18 +17785,18 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
              var scope = ...;
              scope.name = 'misko';
              scope.counter = 0;
-              expect(scope.counter).toEqual(0);
+               expect(scope.counter).toEqual(0);
              scope.$watch('name', function(newValue, oldValue) {
                scope.counter = scope.counter + 1;
              });
              expect(scope.counter).toEqual(0);
-              scope.$digest();
+               scope.$digest();
              // the listener is always called during the first $digest loop after it was registered
              expect(scope.counter).toEqual(1);
-              scope.$digest();
+               scope.$digest();
              // but now it will not be called unless the value changes
              expect(scope.counter).toEqual(1);
-              scope.name = 'adam';
+               scope.name = 'adam';
              scope.$digest();
              expect(scope.counter).toEqual(2);
          * ```
@@ -18012,7 +18012,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
              var scope = ng.$rootScope.Scope();
              scope.a = 1;
              scope.b = 2;
-              expect(scope.$eval('a+b')).toEqual(3);
+               expect(scope.$eval('a+b')).toEqual(3);
              expect(scope.$eval(function(scope){ return scope.a + scope.b; })).toEqual(3);
          * ```
          *
@@ -23211,16 +23211,20 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
          it('should initialize to model', function() {
            var userType = element(by.binding('userType'));
            var valid = element(by.binding('myForm.input.$valid'));
-            expect(userType.getText()).toContain('guest');
+  
+           expect(userType.getText()).toContain('guest');
            expect(valid.getText()).toContain('true');
          });
-          it('should be invalid if empty', function() {
+  
+         it('should be invalid if empty', function() {
            var userType = element(by.binding('userType'));
            var valid = element(by.binding('myForm.input.$valid'));
            var userInput = element(by.model('userType'));
-            userInput.clear();
+  
+           userInput.clear();
            userInput.sendKeys('');
-            expect(userType.getText()).toEqual('userType =');
+  
+           expect(userType.getText()).toEqual('userType =');
            expect(valid.getText()).toContain('false');
          });
        </file>
@@ -23528,20 +23532,20 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
             var text = element(by.binding('example.text'));
             var valid = element(by.binding('myForm.input.$valid'));
             var input = element(by.model('example.text'));
-             it('should initialize to model', function() {
+              it('should initialize to model', function() {
               expect(text.getText()).toContain('guest');
               expect(valid.getText()).toContain('true');
             });
-             it('should be invalid if empty', function() {
+              it('should be invalid if empty', function() {
               input.clear();
               input.sendKeys('');
-               expect(text.getText()).toEqual('text =');
+                expect(text.getText()).toEqual('text =');
               expect(valid.getText()).toContain('false');
             });
-             it('should be invalid if multi word', function() {
+              it('should be invalid if multi word', function() {
               input.clear();
               input.sendKeys('hello world');
-               expect(valid.getText()).toContain('false');
+                expect(valid.getText()).toContain('false');
             });
           </file>
         </example>
@@ -23617,7 +23621,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
      <file name="protractor.js" type="protractor">
         var value = element(by.binding('example.value | date: "yyyy-MM-dd"'));
         var valid = element(by.binding('myForm.input.$valid'));
-         // currently protractor/webdriver does not support
+          // currently protractor/webdriver does not support
         // sending keys to all known HTML5 input controls
         // for various browsers (see https://github.com/angular/protractor/issues/562).
         function setInput(val) {
@@ -23627,16 +23631,16 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
           "angular.element(ipt).scope().$apply(function(s) { s.myForm[ipt.name].$setViewValue('" + val + "'); });";
           browser.executeScript(scr);
         }
-         it('should initialize to model', function() {
+          it('should initialize to model', function() {
           expect(value.getText()).toContain('2013-10-22');
           expect(valid.getText()).toContain('myForm.input.$valid = true');
         });
-         it('should be invalid if empty', function() {
+          it('should be invalid if empty', function() {
           setInput('');
           expect(value.getText()).toEqual('value =');
           expect(valid.getText()).toContain('myForm.input.$valid = false');
         });
-         it('should be invalid if over max', function() {
+          it('should be invalid if over max', function() {
           setInput('2015-01-01');
           expect(value.getText()).toContain('');
           expect(valid.getText()).toContain('myForm.input.$valid = false');
@@ -23713,7 +23717,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
      <file name="protractor.js" type="protractor">
        var value = element(by.binding('example.value | date: "yyyy-MM-ddTHH:mm:ss"'));
        var valid = element(by.binding('myForm.input.$valid'));
-        // currently protractor/webdriver does not support
+         // currently protractor/webdriver does not support
        // sending keys to all known HTML5 input controls
        // for various browsers (https://github.com/angular/protractor/issues/562).
        function setInput(val) {
@@ -23723,16 +23727,16 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
          "angular.element(ipt).scope().$apply(function(s) { s.myForm[ipt.name].$setViewValue('" + val + "'); });";
          browser.executeScript(scr);
        }
-        it('should initialize to model', function() {
+         it('should initialize to model', function() {
          expect(value.getText()).toContain('2010-12-28T14:57:00');
          expect(valid.getText()).toContain('myForm.input.$valid = true');
        });
-        it('should be invalid if empty', function() {
+         it('should be invalid if empty', function() {
          setInput('');
          expect(value.getText()).toEqual('value =');
          expect(valid.getText()).toContain('myForm.input.$valid = false');
        });
-        it('should be invalid if over max', function() {
+         it('should be invalid if over max', function() {
          setInput('2015-01-01T23:59:00');
          expect(value.getText()).toContain('');
          expect(valid.getText()).toContain('myForm.input.$valid = false');
@@ -23810,7 +23814,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
      <file name="protractor.js" type="protractor">
         var value = element(by.binding('example.value | date: "HH:mm:ss"'));
         var valid = element(by.binding('myForm.input.$valid'));
-         // currently protractor/webdriver does not support
+          // currently protractor/webdriver does not support
         // sending keys to all known HTML5 input controls
         // for various browsers (https://github.com/angular/protractor/issues/562).
         function setInput(val) {
@@ -23820,16 +23824,16 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
           "angular.element(ipt).scope().$apply(function(s) { s.myForm[ipt.name].$setViewValue('" + val + "'); });";
           browser.executeScript(scr);
         }
-         it('should initialize to model', function() {
+          it('should initialize to model', function() {
           expect(value.getText()).toContain('14:57:00');
           expect(valid.getText()).toContain('myForm.input.$valid = true');
         });
-         it('should be invalid if empty', function() {
+          it('should be invalid if empty', function() {
           setInput('');
           expect(value.getText()).toEqual('value =');
           expect(valid.getText()).toContain('myForm.input.$valid = false');
         });
-         it('should be invalid if over max', function() {
+          it('should be invalid if over max', function() {
           setInput('23:59:00');
           expect(value.getText()).toContain('');
           expect(valid.getText()).toContain('myForm.input.$valid = false');
@@ -23908,7 +23912,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
      <file name="protractor.js" type="protractor">
        var value = element(by.binding('example.value | date: "yyyy-Www"'));
        var valid = element(by.binding('myForm.input.$valid'));
-        // currently protractor/webdriver does not support
+         // currently protractor/webdriver does not support
        // sending keys to all known HTML5 input controls
        // for various browsers (https://github.com/angular/protractor/issues/562).
        function setInput(val) {
@@ -23918,16 +23922,16 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
          "angular.element(ipt).scope().$apply(function(s) { s.myForm[ipt.name].$setViewValue('" + val + "'); });";
          browser.executeScript(scr);
        }
-        it('should initialize to model', function() {
+         it('should initialize to model', function() {
          expect(value.getText()).toContain('2013-W01');
          expect(valid.getText()).toContain('myForm.input.$valid = true');
        });
-        it('should be invalid if empty', function() {
+         it('should be invalid if empty', function() {
          setInput('');
          expect(value.getText()).toEqual('value =');
          expect(valid.getText()).toContain('myForm.input.$valid = false');
        });
-        it('should be invalid if over max', function() {
+         it('should be invalid if over max', function() {
          setInput('2015-W01');
          expect(value.getText()).toContain('');
          expect(valid.getText()).toContain('myForm.input.$valid = false');
@@ -23968,7 +23972,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
      *   the `ngMin` expression evaluates to. Note that it does not set the `min` attribute.
      * @param {(date|string)=} ngMax Sets the `max` validation constraint to the Date / ISO week string
      *   the `ngMax` expression evaluates to. Note that it does not set the `max` attribute.
-      * @param {string=} required Sets `required` validation error key if the value is not entered.
+       * @param {string=} required Sets `required` validation error key if the value is not entered.
      * @param {string=} ngRequired Adds `required` attribute and `required` validation constraint to
      *    the element when the ngRequired expression evaluates to true. Use `ngRequired` instead of
      *    `required` when you want to data-bind to the `required` attribute.
@@ -24006,7 +24010,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
      <file name="protractor.js" type="protractor">
         var value = element(by.binding('example.value | date: "yyyy-MM"'));
         var valid = element(by.binding('myForm.input.$valid'));
-         // currently protractor/webdriver does not support
+          // currently protractor/webdriver does not support
         // sending keys to all known HTML5 input controls
         // for various browsers (https://github.com/angular/protractor/issues/562).
         function setInput(val) {
@@ -24016,16 +24020,16 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
           "angular.element(ipt).scope().$apply(function(s) { s.myForm[ipt.name].$setViewValue('" + val + "'); });";
           browser.executeScript(scr);
         }
-         it('should initialize to model', function() {
+          it('should initialize to model', function() {
           expect(value.getText()).toContain('2013-10');
           expect(valid.getText()).toContain('myForm.input.$valid = true');
         });
-         it('should be invalid if empty', function() {
+          it('should be invalid if empty', function() {
           setInput('');
           expect(value.getText()).toEqual('value =');
           expect(valid.getText()).toContain('myForm.input.$valid = false');
         });
-         it('should be invalid if over max', function() {
+          it('should be invalid if over max', function() {
           setInput('2015-01');
           expect(value.getText()).toContain('');
           expect(valid.getText()).toContain('myForm.input.$valid = false');
@@ -24130,17 +24134,17 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
             var value = element(by.binding('example.value'));
             var valid = element(by.binding('myForm.input.$valid'));
             var input = element(by.model('example.value'));
-             it('should initialize to model', function() {
+              it('should initialize to model', function() {
               expect(value.getText()).toContain('12');
               expect(valid.getText()).toContain('true');
             });
-             it('should be invalid if empty', function() {
+              it('should be invalid if empty', function() {
               input.clear();
               input.sendKeys('');
               expect(value.getText()).toEqual('value =');
               expect(valid.getText()).toContain('false');
             });
-             it('should be invalid if over max', function() {
+              it('should be invalid if over max', function() {
               input.clear();
               input.sendKeys('123');
               expect(value.getText()).toEqual('value =');
@@ -24224,20 +24228,20 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
             var text = element(by.binding('url.text'));
             var valid = element(by.binding('myForm.input.$valid'));
             var input = element(by.model('url.text'));
-             it('should initialize to model', function() {
+              it('should initialize to model', function() {
               expect(text.getText()).toContain('http://google.com');
               expect(valid.getText()).toContain('true');
             });
-             it('should be invalid if empty', function() {
+              it('should be invalid if empty', function() {
               input.clear();
               input.sendKeys('');
-               expect(text.getText()).toEqual('text =');
+                expect(text.getText()).toEqual('text =');
               expect(valid.getText()).toContain('false');
             });
-             it('should be invalid if not url', function() {
+              it('should be invalid if not url', function() {
               input.clear();
               input.sendKeys('box');
-               expect(valid.getText()).toContain('false');
+                expect(valid.getText()).toContain('false');
             });
           </file>
         </example>
@@ -24317,20 +24321,20 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
             var text = element(by.binding('email.text'));
             var valid = element(by.binding('myForm.input.$valid'));
             var input = element(by.model('email.text'));
-             it('should initialize to model', function() {
+              it('should initialize to model', function() {
               expect(text.getText()).toContain('me@example.com');
               expect(valid.getText()).toContain('true');
             });
-             it('should be invalid if empty', function() {
+              it('should be invalid if empty', function() {
               input.clear();
               input.sendKeys('');
               expect(text.getText()).toEqual('text =');
               expect(valid.getText()).toContain('false');
             });
-             it('should be invalid if not email', function() {
+              it('should be invalid if not email', function() {
               input.clear();
               input.sendKeys('xxx');
-               expect(valid.getText()).toContain('false');
+                expect(valid.getText()).toContain('false');
             });
           </file>
         </example>
@@ -24391,10 +24395,10 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
             it('should change state', function() {
               var inputs = element.all(by.model('color.name'));
               var color = element(by.binding('color.name'));
-               expect(color.getText()).toContain('blue');
-               inputs.get(0).click();
+                expect(color.getText()).toContain('blue');
+                inputs.get(0).click();
               expect(color.getText()).toContain('red');
-               inputs.get(1).click();
+                inputs.get(1).click();
               expect(color.getText()).toContain('green');
             });
           </file>
@@ -24479,7 +24483,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
                 }]);
             </script>
             <form name="myForm" ng-controller="ExampleController">
-               Model as range: <input type="range" name="range" ng-model="value" min="{{min}}"  max="{{max}}">
+                Model as range: <input type="range" name="range" ng-model="value" min="{{min}}"  max="{{max}}">
               <hr>
               Model as number: <input type="number" ng-model="value"><br>
               Min: <input type="number" ng-model="min"><br>
@@ -24490,8 +24494,8 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
             </form>
           </file>
         </example>
-      * ## Range Input with ngMin & ngMax attributes
-      * @example
+       * ## Range Input with ngMin & ngMax attributes
+       * @example
         <example name="range-input-directive-ng" module="rangeExample">
           <file name="index.html">
             <script>
@@ -24514,7 +24518,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
             </form>
           </file>
         </example>
-      */
+       */
     'range': rangeInputType,
 
     /**
@@ -24559,11 +24563,11 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
             it('should change state', function() {
               var value1 = element(by.binding('checkboxModel.value1'));
               var value2 = element(by.binding('checkboxModel.value2'));
-               expect(value1.getText()).toContain('true');
+                expect(value1.getText()).toContain('true');
               expect(value2.getText()).toContain('YES');
-               element(by.model('checkboxModel.value1')).click();
+                element(by.model('checkboxModel.value1')).click();
               element(by.model('checkboxModel.value2')).click();
-               expect(value1.getText()).toContain('false');
+                expect(value1.getText()).toContain('false');
               expect(value2.getText()).toContain('NO');
             });
           </file>
@@ -28391,7 +28395,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
             div:nth-child(1) {
               padding-right: 30px;
             }
-           </file>
+            </file>
      * </example>
      */
     $rollbackViewValue: function $rollbackViewValue() {

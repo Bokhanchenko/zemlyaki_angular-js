@@ -9,7 +9,7 @@
     display: flex;
     height: 40px;
     width: 42px;
-    background: url(../img/sprite-icon.png) 2px;
+    background: url("../img/sprite-icon.png");
     background-size: cover;
     &--ru {
       background-position-x: -42px;
@@ -24,7 +24,11 @@
       background-position: -212px;
     }
     &--print {
+      display: none;
       background-position-x: -127px;
+      @include media-s {
+        display: flex;
+      }
     }
   }
   @media print{

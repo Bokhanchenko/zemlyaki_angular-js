@@ -36,7 +36,7 @@
     };
 
     serviceArticles.getArticles('news').then(data => {
-      $scope.articles = data
+      $scope.articles = data.reverse()
     }).then(initSlider);
   }
 

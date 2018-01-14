@@ -2,67 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4769074-e046-4706-8879-1e112ff77fd8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news10/DSC00241.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news10/DSC00286.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news10/DSC00341.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news10/DSC00344.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news10/DSC00349.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news10/dsc00229.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news10/dsc00231.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news10/dsc00238.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news11/DSC00367.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news11/DSC00375.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news11/DSC00376.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news11/DSC00390.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news11/DSC00396.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news11/DSC00397.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news11/DSC00433.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news12/DSC00002.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news12/DSC00003.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news12/DSC00008.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news12/DSC00015.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news12/DSC00017.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news12/DSC00020.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news13/DSC00079.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news13/DSC00080.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news13/DSC00081.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news13/DSC00083.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news14/DSC00301.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news14/DSC00304.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news14/DSC00310.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/news/news14/DSC00325.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news10/DSC00241.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news10/DSC00286.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news10/DSC00341.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news10/DSC00344.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news10/DSC00349.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news10/dsc00229.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news10/dsc00231.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news10/dsc00238.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news11/DSC00367.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news11/DSC00375.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news11/DSC00376.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news11/DSC00390.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news11/DSC00396.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news11/DSC00397.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news11/DSC00433.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news12/DSC00002.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news12/DSC00003.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news12/DSC00008.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news12/DSC00015.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news12/DSC00017.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news12/DSC00020.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news13/DSC00079.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news13/DSC00080.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news13/DSC00081.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news13/DSC00083.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news14/DSC00301.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news14/DSC00304.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news14/DSC00310.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news14/DSC00325.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/jsons/news.json" afterPath="$PROJECT_DIR$/build/jsons/news.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsons/news.json" afterPath="$PROJECT_DIR$/src/jsons/news.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news10/DSC00079.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news10/DSC00080.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news10/DSC00081.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news10/DSC00083.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news11/DSC00301.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news11/DSC00304.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news11/DSC00310.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/news/news11/DSC00325.JPG" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -83,28 +30,7 @@
     <favorites_list name="zemlyaki-angular" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="news.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/jsons/news.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="366" column="4" lean-forward="true" selection-start-line="366" selection-start-column="4" selection-end-line="366" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -213,8 +139,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -224,6 +148,112 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="zemlyaki-angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zemlyaki-angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zemlyaki-angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zemlyaki-angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zemlyaki-angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zemlyaki-angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zemlyaki-angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news14" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zemlyaki-angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zemlyaki-angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news13" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zemlyaki-angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zemlyaki-angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -278,6 +308,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="news" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news14" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -307,8 +341,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zemlyaki-angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zemlyaki-angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -466,11 +524,12 @@
       <workItem from="1510407063322" duration="1597000" />
       <workItem from="1512489622864" duration="19000" />
       <workItem from="1515924123217" duration="3092000" />
+      <workItem from="1515928344510" duration="49000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95174000" />
+    <option name="totallyTimeSpent" value="95223000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -490,7 +549,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.7693169" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3975364" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -824,18 +883,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
+    <entry file="file://$PROJECT_DIR$/src/jsons/news.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        <state relative-caret-position="253">
+          <caret line="378" column="28" lean-forward="true" selection-start-line="378" selection-start-column="28" selection-end-line="378" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jsons/news.json">
+    <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="366" column="4" lean-forward="true" selection-start-line="366" selection-start-column="4" selection-end-line="366" selection-end-column="4" />
+        <state relative-caret-position="409">
+          <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
           <folding />
         </state>
       </provider>

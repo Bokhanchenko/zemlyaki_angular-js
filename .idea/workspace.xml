@@ -2,66 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4769074-e046-4706-8879-1e112ff77fd8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/js/soft/angular-ui-router.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/js/soft/resolveService.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/js/soft/stateEvents.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/js/soft/ui-router-angularjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/soft/angular-ui-router.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/soft/resolveService.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/soft/stateEvents.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/soft/ui-router-angularjs.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/fonts/ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/controllers/contentCtrl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/template/activity.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/template/cooperation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/template/news.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/template/activity.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/template/cooperation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/template/news.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/img/news/news5/dsc00238.jpg" afterPath="$PROJECT_DIR$/build/img/news/news5/dsc00238.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/img/news/news5/invitation.jpg" afterPath="$PROJECT_DIR$/build/img/news/news5/invitation.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/img/news/news7/17546855.jpg" afterPath="$PROJECT_DIR$/build/img/news/news7/17546855.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/news/news5/dsc00238.jpg" afterPath="$PROJECT_DIR$/src/img/news/news5/dsc00238.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/news/news5/invitation.jpg" afterPath="$PROJECT_DIR$/src/img/news/news5/invitation.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/news/news7/17546855.jpg" afterPath="$PROJECT_DIR$/src/img/news/news7/17546855.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/style.css" afterPath="$PROJECT_DIR$/build/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/htmlPartials/header.html" afterPath="$PROJECT_DIR$/build/htmlPartials/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/htmlPartials/js.html" afterPath="$PROJECT_DIR$/build/htmlPartials/js.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/index.html" afterPath="$PROJECT_DIR$/build/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/controllers/ActivityCtrl.js" afterPath="$PROJECT_DIR$/build/js/controllers/ActivityCtrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/controllers/ContactsCtrl.js" afterPath="$PROJECT_DIR$/build/js/controllers/ContactsCtrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/controllers/CooperationCtrl.js" afterPath="$PROJECT_DIR$/build/js/controllers/CooperationCtrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/controllers/GeneralCtrl.js" afterPath="$PROJECT_DIR$/build/js/controllers/GeneralCtrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/controllers/MainCtrl.js" afterPath="$PROJECT_DIR$/build/js/controllers/MainCtrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/controllers/NewsCtrl.js" afterPath="$PROJECT_DIR$/build/js/controllers/NewsCtrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/main.js" afterPath="$PROJECT_DIR$/build/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/services/service-articles.js" afterPath="$PROJECT_DIR$/build/js/services/service-articles.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/services/service-slider.js" afterPath="$PROJECT_DIR$/build/js/services/service-slider.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/soft/angular-resource.min.js" afterPath="$PROJECT_DIR$/build/js/soft/angular-resource.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/soft/angular-route.min.js" afterPath="$PROJECT_DIR$/build/js/soft/angular-route.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/soft/angular-ui-router.js" afterPath="$PROJECT_DIR$/build/js/soft/angular-ui-router.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/soft/angular.js" afterPath="$PROJECT_DIR$/build/js/soft/angular.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/soft/angular.min.js" afterPath="$PROJECT_DIR$/build/js/soft/angular.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/soft/jquery-3.2.1.min.js" afterPath="$PROJECT_DIR$/build/js/soft/jquery-3.2.1.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/soft/jquery-migrate-v1.2.1.js" afterPath="$PROJECT_DIR$/build/js/soft/jquery-migrate-v1.2.1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/soft/slick.min.js" afterPath="$PROJECT_DIR$/build/js/soft/slick.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/state/config-state-provider.js" afterPath="$PROJECT_DIR$/build/js/state/config-state-provider.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/htmlPartials/header.html" afterPath="$PROJECT_DIR$/src/htmlPartials/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/htmlPartials/js.html" afterPath="$PROJECT_DIR$/src/htmlPartials/js.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/controllers/ActivityCtrl.js" afterPath="$PROJECT_DIR$/src/js/controllers/ActivityCtrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/controllers/CooperationCtrl.js" afterPath="$PROJECT_DIR$/src/js/controllers/CooperationCtrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/controllers/GeneralCtrl.js" afterPath="$PROJECT_DIR$/src/js/controllers/GeneralCtrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/controllers/NewsCtrl.js" afterPath="$PROJECT_DIR$/src/js/controllers/NewsCtrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/services/service-articles.js" afterPath="$PROJECT_DIR$/src/js/services/service-articles.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/services/service-slider.js" afterPath="$PROJECT_DIR$/src/js/services/service-slider.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/state/config-state-provider.js" afterPath="$PROJECT_DIR$/src/js/state/config-state-provider.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/style/partials/global.scss" afterPath="$PROJECT_DIR$/src/style/partials/global.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/style/partials/header.scss" afterPath="$PROJECT_DIR$/src/style/partials/header.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/style/partials/language.scss" afterPath="$PROJECT_DIR$/src/style/partials/language.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/template/articles.html" afterPath="$PROJECT_DIR$/src/template/articles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsons/news.json" afterPath="$PROJECT_DIR$/src/jsons/news.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -77,17 +19,26 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="zemlyaki-angular" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="news.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/jsons/news.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="296" column="348" lean-forward="false" selection-start-line="296" selection-start-column="348" selection-end-line="296" selection-end-column="348" />
               <folding />
             </state>
           </provider>
@@ -131,7 +82,6 @@
         <option value="$PROJECT_DIR$/src/js/main.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/jsons/cooperation.json" />
-        <option value="$PROJECT_DIR$/src/jsons/news.json" />
         <option value="$PROJECT_DIR$/src/jsons/general.json" />
         <option value="$PROJECT_DIR$/src/js/controllers/config-state-provider.js" />
         <option value="$PROJECT_DIR$/src/template/activity.html" />
@@ -163,6 +113,7 @@
         <option value="$PROJECT_DIR$/src/style/partials/header.scss" />
         <option value="$PROJECT_DIR$/src/style/partials/language.scss" />
         <option value="$PROJECT_DIR$/src/style/partials/global.scss" />
+        <option value="$PROJECT_DIR$/src/jsons/news.json" />
       </list>
     </option>
   </component>
@@ -181,11 +132,11 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1696" />
-    <option name="height" value="1026" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1391" />
+    <option name="y" value="-14" />
+    <option name="width" value="1392" />
+    <option name="height" value="915" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -202,108 +153,51 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zemlyaki-angular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zemlyaki-angular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zemlyaki-angular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zemlyaki-angular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zemlyaki-angular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zemlyaki-angular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="style" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zemlyaki-angular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zemlyaki-angular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="style" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zemlyaki-angular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zemlyaki-angular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zemlyaki-angular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zemlyaki-angular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="zemlyaki-angular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zemlyaki-angular" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zemlyaki-angular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zemlyaki-angular" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zemlyaki-angular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zemlyaki-angular" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zemlyaki-angular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zemlyaki-angular" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zemlyaki-angular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zemlyaki-angular" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+              <item name="news10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zemlyaki-angular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zemlyaki-angular" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jsons" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -348,8 +242,13 @@
     </option>
   </component>
   <component name="RunManager" selected="JavaScript Debug.articles.html">
-    <configuration default="false" name="articles.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/zemlyaki-angular/src/template/articles.html">
-      <method />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
@@ -381,15 +280,6 @@
       <option name="filePath" />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
       <command value="run" />
       <scripts />
@@ -410,9 +300,7 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.articles.html" />
-    </list>
+    <configuration name="articles.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/zemlyaki-angular/src/template/articles.html" />
     <recent_temporary>
       <list size="1">
         <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.articles.html" />
@@ -458,11 +346,14 @@
       <workItem from="1509877037588" duration="9492000" />
       <workItem from="1509886778678" duration="935000" />
       <workItem from="1509890984855" duration="954000" />
+      <workItem from="1512569120821" duration="65000" />
+      <workItem from="1512574103838" duration="319000" />
+      <workItem from="1515923206585" duration="715000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90300000" />
+    <option name="totallyTimeSpent" value="91399000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -474,28 +365,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="-1391" y="-14" width="1392" height="915" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1628468" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20964207" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.124300115" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36189258" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -520,7 +411,7 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -544,13 +435,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jsons/news.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4590">
-          <caret line="276" column="9" lean-forward="false" selection-start-line="276" selection-start-column="5" selection-end-line="276" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -778,7 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -786,7 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="27" column="14" lean-forward="false" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -794,7 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="407">
           <caret line="63" column="16" lean-forward="false" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -802,7 +683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -810,7 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="577">
           <caret line="38" column="38" lean-forward="false" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -818,14 +697,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="53" lean-forward="false" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jsons/news.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="296" column="348" lean-forward="false" selection-start-line="296" selection-start-column="348" selection-end-line="296" selection-end-column="348" />
           <folding />
         </state>
       </provider>

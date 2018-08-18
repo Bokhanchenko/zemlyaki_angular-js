@@ -7,27 +7,21 @@
       <li ng-repeat="paragraphList in paragraph.list track by $index">{{paragraphList}}</li>
     </ul>
   </div>
-
   <br>
-
   <img class="content__img" ng-if="article.imgUrl && article.imgUrl.length == 1"
        ng-src="{{ articleImgPath }}{{ article.imgUrl[0] }}" alt="img">
-
   <div class="slider" ng-if="article.imgUrl && article.imgUrl.length > 1">
-
     <div class="slider-for">
       <div class="slider-for__box" ng-repeat="articleImg in article.imgUrl">
         <img class="slider-for__img" ng-src="{{ articleImgPath }}{{ articleImg }}" alt="img">
+        <div class="slider-for__img-description" ng-if="article.imgDescription[articleImg]">{{article.imgDescription[articleImg]}}</div>
       </div>
     </div>
-
     <div class="slider-nav">
       <div class="slider-nav__box" ng-repeat="articleImg in article.imgUrl">
         <img class="slider-nav__img" ng-src="{{ articleImgPath }}{{ articleImg }}" alt="img">
       </div>
     </div>
   </div>
-
   <hr ng-if="articles.length -1 !== $index">
-
 </div>

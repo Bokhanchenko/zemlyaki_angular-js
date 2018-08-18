@@ -50,13 +50,14 @@ body {
   .slider-for {
     width: 100%;
     height: auto;
-    margin: 20px auto 0;
+    margin: 20px auto;
     @include media-m {
       height: 400px;
       width: 600px;
     }
     &__box {
       display: flex;
+      position: relative;
       width: 100%;
       height: 200px;
       outline: none;
@@ -78,6 +79,14 @@ body {
       -webkit-box-shadow: $imgShadow;
       -moz-box-shadow: $imgShadow;
       box-shadow: $imgShadow;
+    }
+    &__img-description {
+      display: block;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      text-align: center;
     }
   }
   .slider-nav {

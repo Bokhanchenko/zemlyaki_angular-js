@@ -9,22 +9,26 @@ zemlyakiApp.config(['$stateProvider', '$urlRouterProvider', function ($stateProv
   $stateProvider.state('general', {
     url: '/',
     templateUrl: 'template/articles.html',
-    controller: 'GeneralCtrl'
+    controller: 'articlesCtrl'
   }).state('activity', {
     url: '/activity',
     templateUrl: 'template/articles.html',
-    controller: 'ActivityCtrl'
+    controller: 'articlesCtrl'
   }).state('cooperation', {
     url: '/cooperation',
     templateUrl: 'template/articles.html',
-    controller: 'CooperationCtrl'
+    controller: 'articlesCtrl'
   }).state('news', {
     url: '/news',
     templateUrl: 'template/articles.html',
-    controller: 'NewsCtrl'
+    controller: 'articlesCtrl'
+  }).state('documents', {
+    url: '/document',
+    templateUrl: 'template/articles.html',
+    controller: 'articlesCtrl'
   }).state('contacts', {
     url: '/contacts',
     templateUrl: 'template/contacts.html',
-    controller: 'ContactsCtrl'
+    controller: 'articlesCtrl'
   });
 }]);

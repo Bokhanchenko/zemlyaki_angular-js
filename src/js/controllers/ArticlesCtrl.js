@@ -17,9 +17,7 @@
 
     $scope.articleImgPath = imgPaths[stateName];
 
-
     const initSlider = () => {
-      angular.element(document).ready(() => {
         const allSliderFor = $('.slider-for');
         const allSliderNav = $('.slider-nav');
 
@@ -47,7 +45,20 @@
             centerMode: true,
           });
         }
-      })
+    };
+
+    const showFullScreen = function(event) {
+      event.stopPropagation();
+      const imgContent = $(this).html();
+
+      $('.full-screen-img-box')
+        .html(imgContent)
+        .click(function() { $(this).html('') });
+    };
+
+    const initClickListener = () => {
+      $('.slider-for__box').click(showFullScreen);
+      $('.content__img-box').click(showFullScreen);
     };
 
     if (stateName !== 'contacts') {
@@ -56,7 +67,12 @@
           $scope.articles = data;
           return true
         })
-        .then(initSlider);
+        .then(() => {
+          angular.element(document).ready(() => {
+            initSlider();
+            initClickListener();
+          })
+        });
     }
   }
 })();

@@ -221,25 +221,28 @@ body {
   width: 100%;
   min-height: 100vh;
   overflow-y: scroll; }
-  body::-webkit-scrollbar {
-    width: 12px;
-    background-color: #807c7f; }
-  body::-webkit-scrollbar-track {
-    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
-    -webkit-border-radius: 10px;
-    border-radius: 10px;
-    background-color: #807c7f; }
-  body::-webkit-scrollbar-thumb {
-    -webkit-border-radius: 10px;
-    border-radius: 10px;
-    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
-    background-color: #2a282b; }
   @media screen and (min-width: 960px) {
     body {
       background: url("../img/back-gener-2.jpg") no-repeat center center fixed;
       -moz-background-size: cover;
       -o-background-size: cover;
       background-size: cover; } }
+
+.scrollbar::-webkit-scrollbar {
+  width: 12px;
+  background-color: #807c7f; }
+
+.scrollbar::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  background-color: #807c7f; }
+
+.scrollbar::-webkit-scrollbar-thumb {
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+  background-color: #2a282b; }
 
 .wrapper {
   max-width: 960px;
@@ -327,6 +330,31 @@ body {
       -moz-box-shadow: 0 0 13px 6px rgba(0, 0, 0, 0.76);
       box-shadow: 0 0 13px 6px rgba(0, 0, 0, 0.76);
       cursor: pointer; }
+
+.full-screen-img-box {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  overflow: auto; }
+  .full-screen-img-box:empty {
+    display: none; }
+  .full-screen-img-box .slider-for__img, .full-screen-img-box .content__img {
+    display: block;
+    margin: auto;
+    width: 80%;
+    max-width: unset;
+    -o-object-fit: contain;
+    object-fit: contain;
+    border: 20px solid #686669;
+    background-color: #686669; }
 
 .header {
   display: -webkit-box;
@@ -615,7 +643,7 @@ body {
     box-shadow: 0 0 13px 6px rgba(0, 0, 0, 0.76); }
     @media screen and (min-width: 480px) {
       .content__img {
-        width: 400px; } }
+        max-width: 400px; } }
 
 iframe {
   width: 100%; }

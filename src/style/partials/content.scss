@@ -58,11 +58,12 @@
     display: block;
     margin: 20px auto;
     width: 80%;
+    //max-width: 800px;
     -webkit-box-shadow: $imgShadow;
     -moz-box-shadow: $imgShadow;
     box-shadow: $imgShadow;
     @include media-s {
-      width: 400px;
+      max-width: 400px;
     }
   }
 }

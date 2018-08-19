@@ -8,8 +8,12 @@
     </ul>
   </div>
   <br>
-  <img class="content__img" ng-if="article.imgUrl && article.imgUrl.length == 1"
-       ng-src="{{ articleImgPath }}{{ article.imgUrl[0] }}" alt="img">
+  <div class="content__img-box">
+    <img class="content__img"
+         ng-if="article.imgUrl && article.imgUrl.length == 1"
+         ng-src="{{ articleImgPath }}{{ article.imgUrl[0] }}"
+         alt="img">
+  </div>
   <div class="slider" ng-if="article.imgUrl && article.imgUrl.length > 1">
     <div class="slider-for">
       <div class="slider-for__box" ng-repeat="articleImg in article.imgUrl">
@@ -25,3 +29,7 @@
   </div>
   <hr ng-if="articles.length -1 !== $index">
 </div>
+
+<div class="full-screen-img-box scrollbar"></div>
+
+

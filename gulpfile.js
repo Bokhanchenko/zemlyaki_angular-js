@@ -1,129 +1,3 @@
-'use strict'
-
-// var gulp = require('gulp');
-// var	partials = require('gulp-partials');
-// var browserSync = require('browser-sync');
-//
-// gulp.task('partials', function () {
-//     return gulp.src('partials/*.scss')
-//         .pipe(partials({outputStyle: 'expanded'}).on('error', partials.logError))
-//         .pipe(partials())
-//         .pipe(gulp.dest('css'))
-//         .pipe(browserSync.reload({stream:true}));
-// });
-//
-// gulp.task('browser-sync', function() {
-// 	browserSync({
-// 		server: {baseDir: ''},
-// 		notify: false
-// 	});
-// });
-//
-// gulp.task('watch', ['browser-sync', 'partials'],function () {
-//     gulp.watch('partials/**/*.scss', ['partials']);
-//     gulp.watch('*.html', browserSync.reload);
-// });
-
-// const gulp = require('gulp'),
-//     sass = require('gulp-sass'),
-//     browserSync = require('browser-sync'),
-//     autoprefixer = require('gulp-autoprefixer'),
-//     rimraf = require('rimraf'),
-//     rigger = require('gulp-rigger'),
-//     concat = require('gulp-concat'),
-//     cssnano = require('gulp-cssnano'),
-//     // del = require('del'),
-//     uglify = require('gulp-uglify'),
-//     babel = require('gulp-babel'),
-//     imagemin = require('gulp-imagemin'),
-//     concatCss = require('gulp-concat-css'),
-//     pngquant = require('imagemin-pngquant');
-//
-// let paths = {
-//     build: {
-//         html: 'build/',
-//         js: 'build/js/',
-//         css: 'build/css/',
-//         img: 'build/img/',
-//         fonts: 'build/fonts/'
-//     },
-//     src: {
-//         html: 'src/*.html',
-//         js: 'src/js/**/*.js',
-//         style: 'src/style/*.scss',
-//         img: 'src/img/**/*.+(jpeg|jpg|JPG|png|tiff|webp|svg)',
-//         fonts: 'src/fonts/**/*.*'
-//     },
-//     watch: {
-//         html: 'src/**/*.html',
-//         js: 'src/js/**/*.js',
-//         style: 'src/style/**/*.scss',
-//         img: 'src/img/**/*.*',
-//         fonts: 'src/fonts/**/*.*'
-//     },
-//     clean: './dist'
-// };
-//
-// gulp.task('sass', function () {
-//     gulp.src(paths.src.style)
-//         .pipe(sass({outputStyle: 'expanded'}).on('error', sass.logError))
-//         .pipe(sass())
-//         .pipe(autoprefixer({
-//             browsers: ['last 2 versions'],
-//             cascade: false
-//         }))
-//         .pipe(concatCss('style.css'))
-//         .pipe(gulp.dest(paths.build.css))
-//         .pipe(browserSync.reload({stream: true}));
-// });
-//
-// gulp.task('html', function () {
-//     gulp.src(paths.src.html)
-//         .pipe(rigger())
-//         .pipe(gulp.dest(paths.build.html))
-//         .pipe(browserSync.reload({stream: true}));
-// });
-//
-// gulp.task('js', function () {
-//     gulp.src(paths.src.js)
-//         .pipe(rigger())
-//         .pipe(babel({presets: ['env']}))
-//         .pipe(uglify())
-//         .pipe(gulp.dest(paths.build.js))
-//         .pipe(browserSync.reload({stream: true}));
-// });
-//
-// gulp.task('fonts', function() {
-//     gulp.src(paths.src.fonts)
-//         .pipe(gulp.dest(paths.build.fonts))
-//         .pipe(browserSync.reload({stream: true}));
-// });
-//
-// gulp.task('img', function () {
-//     gulp.src(paths.src.img)
-//         .pipe(imagemin())
-//         .pipe(gulp.dest(paths.build.img))
-//         .pipe(browserSync.reload({stream: true}));
-// });
-//
-//
-// gulp.task('server', function () {
-//     browserSync({
-//         server: {baseDir: paths.build.html},
-//         notify: false
-//     });
-// });
-//
-// gulp.task('watch', ['sass', 'html', 'js', 'img'], function () {
-//     gulp.watch(paths.watch.style, ['sass']);
-//     gulp.watch(paths.watch.html, ['html']);
-//     gulp.watch(paths.watch.js, ['js']);
-//     gulp.watch(paths.watch.img, ['img']);
-//     gulp.watch(paths.watch.fonts, ['fonts']);
-// });
-//
-// gulp.task('default', ['server', 'html', 'sass', 'js', 'fonts', 'img', 'watch']);
-
 const gulp = require( 'gulp')
     ,useref = require( 'gulp-useref')
     ,htmlmin = require( 'gulp-htmlmin')
@@ -146,7 +20,7 @@ const gulp = require( 'gulp')
     ,rename = require("gulp-rename");
 
 
-let path = {
+const path = {
     build: {
         html: 'build/',
         js: 'build/js/',
@@ -174,7 +48,7 @@ let path = {
     clean: 'build'
 };
 
-let config = {
+const config = {
     server: {
         baseDir: "./dist"
     },
@@ -184,7 +58,7 @@ let config = {
     logPrefix: "front_log"
 };
 
-let logErr = function( err){
+const logErr = function( err){
     console.warn( err);
     this.emit( 'end');
 }

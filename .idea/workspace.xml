@@ -2,225 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4769074-e046-4706-8879-1e112ff77fd8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/055.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/089.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/25466008_1710084859036057_932375804_n.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/25519958_1710087345702475_524457415_n.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/270 009.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00011.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00043.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00076.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00124.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00135.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00164.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00174.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00181.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00231.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00242.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00281.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00288.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00301.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00310.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00326.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00353.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00367.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00372.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00397.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00436.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00460.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00522.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00638.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00639.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC00668.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC01567.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC01611.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC04493.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC06406.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC06407.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC07005.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC07069.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC07073.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC07786.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC08053.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC08058.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC08116.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC08549.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC09089.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC09163.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC09313.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC09363.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC09487.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC09791.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC09799.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC09870.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSCN1523.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSCN1552.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSCN3615.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC_5085.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC_5281.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC_5327.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC_8659.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC_8748.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/DSC_8785.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/IMG_0380.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/P1290675.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/P1290724.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/PIC_0202.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/PIC_0228.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/documents_photo/WP_20170311_17_37_39_Pro.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/selection_079.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/selection_080.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/selection_081.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/selection_082.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/selection_083.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/documents/selection_084.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/055.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/089.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/25466008_1710084859036057_932375804_n.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/25519958_1710087345702475_524457415_n.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/270 009.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00011.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00043.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00076.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00124.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00135.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00164.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00174.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00181.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00231.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00242.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00281.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00288.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00301.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00310.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00326.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00353.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00367.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00372.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00397.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00436.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00460.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00522.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00638.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00639.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC00668.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC01567.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC01611.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC04493.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC06406.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC06407.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC07005.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC07069.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC07073.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC07786.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC08053.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC08058.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC08116.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC08549.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC09089.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC09163.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC09313.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC09363.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC09487.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC09791.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC09799.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC09870.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSCN1523.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSCN1552.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSCN3615.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC_5085.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC_5281.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC_5327.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC_8659.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC_8748.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/DSC_8785.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/IMG_0380.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/P1290675.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/P1290724.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/PIC_0202.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/PIC_0228.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/documents/documents_photo/WP_20170311_17_37_39_Pro.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/14434946_1281544741879850_7581941071320919730_o.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/25466008_1710084859036057_932375804_n.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp/Перспективний план 2019-розшир..doc" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/documents/leaders.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/jsons/tsconfig.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/documents/leaders.png" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0003.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0003.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0004.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0004.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0005.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0005.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0007.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0007.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0008.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0008.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0009.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0009.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0010.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0010.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0011.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0011.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0012.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0012.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0013.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0013.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0014.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0014.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0015.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0015.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0016.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0016.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0017.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0017.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0018.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0018.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0019.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0019.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0020.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0020.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0022.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0022.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0023.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0023.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0024.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0024.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0025.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0025.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0026.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0026.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0027.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0027.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0028.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0028.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0029.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0029.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0030.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0030.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0031.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0031.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0032.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0032.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0033.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0033.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/img/documents/сканирование0034.jpg" afterPath="$PROJECT_DIR$/src/img/documents/0034.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0003.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0003.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0004.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0004.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0005.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0005.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0007.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0007.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0008.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0008.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0009.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0009.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0010.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0010.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0011.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0011.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0012.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0012.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0013.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0013.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0014.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0014.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0015.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0015.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0016.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0016.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0017.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0017.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0018.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0018.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0019.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0019.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0020.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0020.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0022.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0022.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0023.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0023.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0024.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0024.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0025.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0025.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0026.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0026.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0027.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0027.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0028.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0028.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0029.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0029.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0030.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0030.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0031.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0031.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0032.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0032.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0033.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0033.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/img/documents/сканирование0034.jpg" afterPath="$PROJECT_DIR$/build/img/documents/0034.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/services/service-articles.js" afterPath="$PROJECT_DIR$/build/js/services/service-articles.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/jsons/documents.json" afterPath="$PROJECT_DIR$/build/jsons/documents.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/template/articles.html" afterPath="$PROJECT_DIR$/build/template/articles.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsons/documents.json" afterPath="$PROJECT_DIR$/src/jsons/documents.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/template/articles.html" afterPath="$PROJECT_DIR$/src/template/articles.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/js/soft/angular-resource.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/js/soft/angular-resource.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/js/soft/angular-route.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/js/soft/angular-route.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/js/soft/angular-ui-router.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/js/soft/angular-ui-router.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/js/soft/angular.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/js/soft/angular.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/js/soft/angular.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/js/soft/angular.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/js/soft/resolveService.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/js/soft/resolveService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/js/soft/stateEvents.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/js/soft/stateEvents.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/js/soft/ui-router-angularjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/js/soft/ui-router-angularjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/jsons/activity.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/jsons/activity.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/jsons/cooperation.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/jsons/cooperation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/jsons/documents.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/jsons/documents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/jsons/general.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/jsons/general.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/jsons/news.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/jsons/news.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/services/service-articles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/services/service-articles.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -234,13 +38,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="service-articles.js" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/js/services/service-articles.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="7" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="10" selection-end-column="7" />
-              <folding />
+            <state relative-caret-position="15">
+              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2262" />
           </provider>
         </entry>
       </file>
@@ -293,11 +103,9 @@
         <option value="$PROJECT_DIR$/build/template/contacts.html" />
         <option value="$PROJECT_DIR$/src/js/controllers/ContactsCtrl.js" />
         <option value="$PROJECT_DIR$/src/js/controllers/MainCtrl.js" />
-        <option value="$PROJECT_DIR$/src/js/services/service-articles.js" />
         <option value="$PROJECT_DIR$/src/htmlPartials/header.html" />
         <option value="$PROJECT_DIR$/src/js/controllers/ActivityCtrl.js" />
         <option value="$PROJECT_DIR$/src/js/services/service-slider.js" />
-        <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/build/template/news.html" />
         <option value="$PROJECT_DIR$/src/style/partials/header.scss" />
         <option value="$PROJECT_DIR$/src/style/partials/language.scss" />
@@ -320,46 +128,29 @@
         <option value="$PROJECT_DIR$/src/jsons/documents.json" />
         <option value="$PROJECT_DIR$/build/index.html" />
         <option value="$PROJECT_DIR$/src/js/state/config-state-provider.js" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/src/js/services/service-articles.js" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
     <annotation-enable>false</annotation-enable>
     <other-services-enabled>true</other-services-enabled>
   </component>
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1497" />
-    <option name="y" value="-4" />
-    <option name="width" value="1623" />
-    <option name="height" value="1054" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="45" />
+    <option name="y" value="25" />
+    <option name="width" value="1395" />
+    <option name="height" value="875" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -367,50 +158,24 @@
               <item name="zemlyaki-angular" type="b2602c69:ProjectViewProjectNode" />
               <item name="zemlyaki-angular" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="zemlyaki-angular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zemlyaki-angular" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zemlyaki-angular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zemlyaki-angular" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="htmlPartials" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zemlyaki-angular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zemlyaki-angular" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zemlyaki-angular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zemlyaki-angular" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javascript-invoices" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="doc&#9;FILE&#9;file://H:/Java, HTML, CSS,JS/repozitory/zemlyaki-angular/src/jsons/documents.json&#10;news&#9;FILE&#9;file:///media/kayan/BIG DATA/Java, HTML, CSS,JS/repozitory/zemlyaki-angular-2/src/jsons/news.json&#10;conf&#9;FILE&#9;file:///media/kayan/BIG DATA/Java, HTML, CSS,JS/repozitory/zemlyaki-angular-2/src/js/state/config-state-provider.js" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
-    <property name="JavaScriptPreferStrict" value="false" />
-    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="add_unversioned_files" value="true" />
-    <property name="js.eslint.eslintPackage" value="" />
-    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="SearchEverywhereHistoryKey" value="doc&#9;FILE&#9;file://H:/Java, HTML, CSS,JS/repozitory/zemlyaki-angular/src/jsons/documents.json&#10;news&#9;FILE&#9;file:///media/kayan/BIG DATA/Java, HTML, CSS,JS/repozitory/zemlyaki-angular-2/src/jsons/news.json&#10;conf&#9;FILE&#9;file:///media/kayan/BIG DATA/Java, HTML, CSS,JS/repozitory/zemlyaki-angular-2/src/js/state/config-state-provider.js" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -521,11 +286,12 @@
       <workItem from="1538857967911" duration="1281000" />
       <workItem from="1538892908165" duration="6000" />
       <workItem from="1538892942003" duration="19000" />
+      <workItem from="1544959072428" duration="1127000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136317000" />
+    <option name="totallyTimeSpent" value="137444000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -537,76 +303,67 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1497" y="-4" width="1625" height="1062" extended-state="6" />
+    <frame x="45" y="25" width="1395" height="875" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.159375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12216216" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15866084" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32992327" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32992327" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32992327" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Debug Logs" order="8" weight="0.32992327" />
+      <window_info anchor="bottom" id="Execute Anonymous" order="9" weight="0.32992327" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.29708222" />
+      <window_info anchor="bottom" id="Salesforce" order="11" weight="0.32992327" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2049272" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15741858" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15741858" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32992327" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32992327" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32992327" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Debug Logs" order="8" weight="0.32992327" />
+      <window_info anchor="bottom" id="Execute Anonymous" order="9" weight="0.32992327" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2049272" />
+      <window_info anchor="bottom" id="Salesforce" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build/template/activity.html" />
     <entry file="file://$PROJECT_DIR$/build/template/news.html" />
     <entry file="file://$PROJECT_DIR$/src/style/partials/language.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
-          <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/style/partials/mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
-          <caret line="27" column="14" lean-forward="false" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="14" />
+          <caret line="27" column="14" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -619,16 +376,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build/jsons/news.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5508">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
+        <state relative-caret-position="-5508" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/controllers/MainCtrl.js" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
-          <caret line="31" column="23" lean-forward="false" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -637,25 +392,17 @@
     <entry file="file://$PROJECT_DIR$/src/js/controllers/CooperationCtrl.js" />
     <entry file="file://$PROJECT_DIR$/src/js/controllers/NewsCtrl.js" />
     <entry file="file://$PROJECT_DIR$/src/img/back-gener-2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/img/back-gener.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/controllers/ActivityCtrl.js" />
     <entry file="file://$PROJECT_DIR$/build/img/news/news0/dsc09600.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/build/img/news/news1/p1290669.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/img/news/news13/DSC00080.jpg" />
     <entry file="file://$PROJECT_DIR$/src/img/news/news13/DSC00079.jpg" />
@@ -663,21 +410,17 @@
     <entry file="file://$PROJECT_DIR$/src/jsons/general.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
-          <caret line="42" column="11" lean-forward="false" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+          <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/style/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/htmlPartials/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
-          <caret line="12" column="62" lean-forward="false" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+          <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
         </state>
       </provider>
     </entry>
@@ -693,14 +436,12 @@
     <entry file="file://$PROJECT_DIR$/src/jsons/news.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
-          <caret line="361" column="26" lean-forward="false" selection-start-line="361" selection-start-column="26" selection-end-line="361" selection-end-column="26" />
+          <caret line="361" column="26" selection-start-line="361" selection-start-column="26" selection-end-line="361" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build/img/fond1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/style/partials/content.scss">
       <provider selected="true" editor-type-id="text-editor">
@@ -712,38 +453,34 @@
     <entry file="file://$PROJECT_DIR$/src/style/partials/constants.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="12" />
+          <caret line="4" column="12" selection-start-line="4" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/style/partials/global.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2466">
-          <caret line="137" column="20" lean-forward="false" selection-start-line="137" selection-start-column="20" selection-end-line="137" selection-end-column="20" />
+          <caret line="137" column="20" selection-start-line="137" selection-start-column="20" selection-end-line="137" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/img/news/news5/invitation.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/build/img/photos/events/2012008.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/build/htmlPartials/js.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
-          <caret line="7" column="53" lean-forward="false" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -757,85 +494,71 @@
     <entry file="file://$PROJECT_DIR$/src/jsons/activity.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="64" column="5" lean-forward="false" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+          <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/template/contacts.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build/img/documents/documents_photo/DSC00024.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/img/documents/documents_photo/DSC00043.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/soft/stateEvents.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/soft/ui-router-angularjs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/build/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-403">
-          <caret line="16" column="59" lean-forward="false" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/temp/14434946_1281544741879850_7581941071320919730_o.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/state/config-state-provider.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="51" lean-forward="false" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="62" />
+        <state>
+          <caret column="51" selection-start-column="51" selection-end-column="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/htmlPartials/js.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
-          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/template/articles.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="103">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <caret line="13" selection-start-line="12" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jsons/documents.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
-          <caret line="217" column="0" lean-forward="false" selection-start-line="217" selection-start-column="0" selection-end-line="217" selection-end-column="0" />
+          <caret line="217" selection-start-line="217" selection-end-line="217" />
         </state>
       </provider>
     </entry>
@@ -846,11 +569,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2262" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/services/service-articles.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="7" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="10" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="15">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
         </state>
       </provider>
     </entry>

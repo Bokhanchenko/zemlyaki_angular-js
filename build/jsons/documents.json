@@ -9,21 +9,21 @@
       }
     ],
     "imgUrl": [
-      "сканирование0003.jpg",
-      "сканирование0004.jpg",
-      "сканирование0007.jpg",
-      "сканирование0008.jpg",
-      "сканирование0009.jpg",
-      "сканирование0010.jpg",
-      "сканирование0011.jpg",
-      "сканирование0012.jpg",
-      "сканирование0013.jpg",
-      "сканирование0005.jpg",
-      "сканирование0015.jpg",
-      "сканирование0016.jpg",
-      "сканирование0017.jpg",
-      "сканирование0018.jpg",
-      "сканирование0014.jpg"
+      "0003.jpg",
+      "0004.jpg",
+      "0007.jpg",
+      "0008.jpg",
+      "0009.jpg",
+      "0010.jpg",
+      "0011.jpg",
+      "0012.jpg",
+      "0013.jpg",
+      "0005.jpg",
+      "0015.jpg",
+      "0016.jpg",
+      "0017.jpg",
+      "0018.jpg",
+      "0014.jpg"
     ]
   },
   {
@@ -36,8 +36,8 @@
       }
     ],
     "imgUrl": [
-      "сканирование0019.jpg",
-      "сканирование0033.jpg"
+      "0019.jpg",
+      "0033.jpg"
     ]
   },
   {
@@ -50,7 +50,7 @@
       }
     ],
     "imgUrl": [
-      "сканирование0034.jpg"
+      "0034.jpg"
     ]
   },
   {
@@ -63,18 +63,18 @@
       }
     ],
     "imgUrl": [
-      "сканирование0020.jpg",
-      "сканирование0032.jpg",
-      "сканирование0022.jpg",
-      "сканирование0023.jpg",
-      "сканирование0024.jpg",
-      "сканирование0025.jpg",
-      "сканирование0026.jpg",
-      "сканирование0027.jpg",
-      "сканирование0028.jpg",
-      "сканирование0029.jpg",
-      "сканирование0030.jpg",
-      "сканирование0031.jpg"
+      "0020.jpg",
+      "0032.jpg",
+      "0022.jpg",
+      "0023.jpg",
+      "0024.jpg",
+      "0025.jpg",
+      "0026.jpg",
+      "0027.jpg",
+      "0028.jpg",
+      "0029.jpg",
+      "0030.jpg",
+      "0031.jpg"
     ]
   },
   {
@@ -121,10 +121,97 @@
       "selection_075.jpg",
       "selection_076.jpg",
       "selection_077.jpg",
-      "selection_078.jpg"
+      "selection_078.jpg",
+      "selection_079.jpg",
+      "selection_080.jpg",
+      "selection_081.jpg",
+      "selection_082.jpg",
+      "selection_083.jpg",
+      "selection_084.jpg"
     ]
+  },
+  {
+    "id": 6,
+    "title": "Фото галерея",
+    "text": [
+      {
+        "text": "",
+        "list": []
+      }
+    ],
+    "imgUrl": [
+      "documents_photo/055.jpg",
+      "documents_photo/089.jpg",
+      "documents_photo/270 009.jpg",
+      "documents_photo/25466008_1710084859036057_932375804_n.jpg",
+      "documents_photo/25519958_1710087345702475_524457415_n.jpg",
+      "documents_photo/DSC00011.jpg",
+      "documents_photo/DSC00024.jpg",
+      "documents_photo/DSC00043.jpg",
+      "documents_photo/DSC00076.jpg",
+      "documents_photo/DSC00124.jpg",
+      "documents_photo/DSC00135.jpg",
+      "documents_photo/DSC00164.jpg",
+      "documents_photo/DSC00174.jpg",
+      "documents_photo/DSC00181.jpg",
+      "documents_photo/DSC00231.jpg",
+      "documents_photo/DSC00242.jpg",
+      "documents_photo/DSC00281.jpg",
+      "documents_photo/DSC00288.jpg",
+      "documents_photo/DSC00301.jpg",
+      "documents_photo/DSC00310.jpg",
+      "documents_photo/DSC00326.jpg",
+      "documents_photo/DSC00353.jpg",
+      "documents_photo/DSC00367.jpg",
+      "documents_photo/DSC00372.jpg",
+      "documents_photo/DSC00397.jpg",
+      "documents_photo/DSC00436.jpg",
+      "documents_photo/DSC00460.jpg",
+      "documents_photo/DSC00522.jpg",
+      "documents_photo/DSC00638.jpg",
+      "documents_photo/DSC00639.jpg",
+      "documents_photo/DSC00668.jpg",
+      "documents_photo/DSC01567.jpg",
+      "documents_photo/DSC01611.jpg",
+      "documents_photo/DSC04493.jpg",
+      "documents_photo/DSC06406.jpg",
+      "documents_photo/DSC06407.jpg",
+      "documents_photo/DSC07005.jpg",
+      "documents_photo/DSC07069.jpg",
+      "documents_photo/DSC07073.jpg",
+      "documents_photo/DSC07786.jpg",
+      "documents_photo/DSC08053.jpg",
+      "documents_photo/DSC08058.jpg",
+      "documents_photo/DSC08116.jpg",
+      "documents_photo/DSC08549.jpg",
+      "documents_photo/DSC09089.jpg",
+      "documents_photo/DSC09163.jpg",
+      "documents_photo/DSC09313.jpg",
+      "documents_photo/DSC09363.jpg",
+      "documents_photo/DSC09487.jpg",
+      "documents_photo/DSC09791.jpg",
+      "documents_photo/DSC09799.jpg",
+      "documents_photo/DSC09870.jpg",
+      "documents_photo/DSC_5085.jpg",
+      "documents_photo/DSC_5281.jpg",
+      "documents_photo/DSC_5327.jpg",
+      "documents_photo/DSC_8659.jpg",
+      "documents_photo/DSC_8748.jpg",
+      "documents_photo/DSC_8785.jpg",
+      "documents_photo/DSCN1523.jpg",
+      "documents_photo/DSCN1552.jpg",
+      "documents_photo/DSCN3615.jpg",
+      "documents_photo/IMG_0380.jpg",
+      "documents_photo/P1290675.jpg",
+      "documents_photo/P1290724.jpg",
+      "documents_photo/PIC_0202.jpg",
+      "documents_photo/PIC_0228.jpg",
+      "documents_photo/WP_20170311_17_37_39_Pro.jpg",
+      "documents_photo/2016002.jpg"
+    ],
+    "imgDescription": {
+      "documents_photo/055.jpg": "TEST образець опиcа фотографії",
+      "documents_photo/089.jpg": "TEST і так всі фотографії"
+    }
   }
 ]
-
-
-

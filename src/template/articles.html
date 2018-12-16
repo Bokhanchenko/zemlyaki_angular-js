@@ -1,13 +1,16 @@
 <div class="content__box" ng-repeat="article in articles">
   <p class="content__date">{{article.date}}</p>
   <p class="content__sub-title">{{ article.title }}</p><br>
+
   <div ng-repeat="paragraph in article.text">
     <p class="content__text">{{ paragraph.text}}</p>
     <ul class="content__list">
       <li ng-repeat="paragraphList in paragraph.list track by $index">{{paragraphList}}</li>
     </ul>
   </div>
+
   <br>
+
   <div class="content__img-box">
     <img class="content__img"
          ng-if="article.imgUrl && article.imgUrl.length == 1"
@@ -15,18 +18,21 @@
          alt="img">
   </div>
   <div class="slider" ng-if="article.imgUrl && article.imgUrl.length > 1">
+
     <div class="slider-for">
       <div class="slider-for__box" ng-repeat="articleImg in article.imgUrl">
         <img class="slider-for__img" ng-src="{{ articleImgPath }}{{ articleImg }}" alt="img">
         <div class="slider-for__img-description" ng-if="article.imgDescription[articleImg]">{{article.imgDescription[articleImg]}}</div>
       </div>
     </div>
+
     <div class="slider-nav">
       <div class="slider-nav__box" ng-repeat="articleImg in article.imgUrl">
         <img class="slider-nav__img" ng-src="{{ articleImgPath }}{{ articleImg }}" alt="img">
       </div>
     </div>
   </div>
+
   <hr ng-if="articles.length -1 !== $index">
 </div>
 
